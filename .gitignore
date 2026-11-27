@@ -1,0 +1,12 @@
+# Entorno virtual: se recrea con requirements.txt
+.venv/
+
+# Base vectorial: se genera sola al correr el programa
+chroma_itt/
+
+# Archivos descartados (incluye una lista con datos personales de aspirantes)
+_no_usar/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc

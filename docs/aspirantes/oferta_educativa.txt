@@ -1,0 +1,3017 @@
+Oferta educativa:
+Licenciaturas:
+Escolarizadas:
+Arquitectura
+Ingeniería Bioquímica
+Ingeniería Civil
+Ingeniería Eléctrica
+Ingeniería en Gestión Empresarial
+Ingeniería en Sistemas Computacionales
+Ingeniería Industrial
+Ingeniería Mecatrónica
+Ingeniería Química
+Licenciatura en Administración
+No escolarizadas:
+Ingeniería en Gestión Empresarial
+Ingeniería en Sistemas Computacionales TecNM Virtual
+Ingeniería Industrial TecNM Virtual
+Maestrías:
+Maestría en Ciencias en Alimentos
+Maestría en Vivienda y Entorno Habitable
+Doctorados:
+Doctorado en Ciencias en Alimentos
+
+
+
+Arquitectura
+ARQU-2010-204
+
+Especialidad en Patrimonio, Paisaje y Ciudad
+
+Objetivo de la carrera
+Formar profesionistas líderes con excelencia académica y humanística capaces de diseñar y construir el hábitat humano y participar en la toma de decisiones inherentes al mismo, con vocación de servicio a la sociedad, dentro de un marco de sustentabilidad.
+
+Perfil de egreso
+Realizar en su totalidad, el proceso del proyecto Arquitectónico urbano, así como su construción, sus aspectos teórico-prácticos con una visión crítica e inovadora, dentro de un marco de calidad como satisfactor de un desarrollo comunitario y personal.
+Aplicar principios de arquitectura integral y diseño universal, dirigidos a propiciar una óptima calidad de vida.
+Tener una actitud emprendedora para generar proyectos sustentables, funcionales, estéticos y factibles, propiciando oportunidades de trabajo.
+Preservar racionalmente los ámbitos natural y construido, con respeto al marco jurídico y normativo, al patrimonio edificado, a la cultura y a la diversidad.
+Campo de acción
+El arquitecto es un profesional con amplias perspectivas laborales. Puede desarrollarse en dos grandes sectores, tanto en el público como en el privado, en trabajo con inversionistas, productores urbanos y turísticos y en pequeñas industrias y comercios. Puede ejercer su profesión en puestos de trabajo como proyectistas (espacios interiores y exteriores, elementos y estructuras arquitectónicas, en áreas rural y urbana) y constructor (coordinador, administrador y promotor de obras).
+
+Especialidad y Residencia
+Las materias de la especialidad se ofrecen según las necesidades o giro que tome la industria estatal y regional.
+
+La residencia profesional es un requisito reticular así como la estrategia que integra al estudiante a los sectores sociales y productivos, mediante un proyecto de trabajo profesional cuyo objetivo fundamental será la aplicación de los conocimientos adquiridos a situaciones reales. Tendrá una duración de 4 a 6 meses debiendo acumular un total de 640 horas, una vez aprobado el 75% de créditos.
+
+Servicio Social
+El servicio social es un requisito que tiene como finalidad realizar un trabajo significativo para el desarrollo cumunitario, como una retribución a la sociedad. Consiste en 480 horas efectivas de trabajo en un periodo no menor de 6 meses y no mayor de 2 años una vez aprobados el 70% de créditos.
+
+Curso de Inglés
+Es obligatorio acreditar seis niveles del idioma inglés.
+
+Requisitos de titulación
+Aprobar todas las asignaturas de la estructura genérica y módulo de especialidad.
+Acreditar la residencia profesional.
+Cumplir con el servicio social.
+Aprobar el requisito de comprensión del idioma inglés.
+Presentar el examen de egreso (EGEL).
+Aprobar el acto recepcional del proceso de titulación.
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	ARE-1015	Fundamentos Teóricos del Diseño I	3	1	4	1	209.1 KB
+2	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+3	ARC-1009	Análisis Proyectual	2	2	4	1	227.9 KB
+4	ARC-1017	Geometría Descriptiva I	2	2	4	1	200.7 KB
+5	ARE-1005	Análisis Crítico de la Arquitectura y el Arte I	3	1	4	1	255.4 KB
+6	ARX-1034	Taller de Expresión Plástica	0	6	6	1	228.5 KB
+7	ARC-1016	Fundamentos Teóricos del Diseño II	2	2	4	2	210.1 KB
+8	ARC-1023	Metodología para el Diseño	2	2	4	2	262.1 KB
+9	ARC-1022	Matemáticas Aplicadas a la Arquitectura	2	2	4	2	186.3 KB
+10	ARC-1018	Geometría Descriptiva II	2	2	4	2	219.7 KB
+11	ARE-1006	Análisis Crítico de la Arquitectura y el Arte II	3	1	4	2	248.0 KB
+12	ARG-1028	Taller de Diseño I	3	3	6	3	288.0 KB
+13	ARC-1025	Propiedades y Comportamiento de los Materiales	2	2	4	3	224.4 KB
+14	ARC-1013	Estructuras I	2	2	4	3	232.0 KB
+15	ARH-1037	Topografía	1	3	4	3	196.3 KB
+16	ARE-1007	Análisis Crítico de la Arquitectura y el Arte III	3	1	4	3	248.6 KB
+17	ARX-1036	Taller de Lenguaje Arquitectónico II	1	5	6	3	174.3 KB
+18	ARX-1035	Taller de Lenguaje Arquitectónico I	1	5	6	2	201.4 KB
+19	ARC-1029	Taller de Diseño II	4	4	8	4	321.4 KB
+20	ARJ-1026	Taller de Construcción I	4	2	6	4	221.8 KB
+21	ARC-1014	Estructuras II	2	2	4	4	242.7 KB
+22	ARE-1024	Pensamiento Arquitectónico Contemporáneo	3	1	4	4	241.9 KB
+23	ARE-1008	Análisis Crítico de la Arquitectura y el Arte IV	3	1	4	4	262.8 KB
+24	ARC-1020	Instalaciones I	2	2	4	4	212.0 KB
+25	ARM-1030	Taller de Diseño III	3	5	8	5	336.8 KB
+26	ARJ-1027	Taller de Construcción II	4	2	6	5	227.8 KB
+27	ARJ-1012	Estructuras de Concreto	4	2	6	5	244.8 KB
+28	ACD-0908	Desarrollo Sustentable	2	3	5	5	187.2 KB
+29	ARR-1010	Estética	2	1	3	5	229.4 KB
+30	ARC-1021	Instalaciones II	2	2	4	5	263.2 KB
+31	ART-1031	Taller de Diseño IV	2	6	8	6	322.8 KB
+32	ARC-1011	Estructuras de Acero	2	2	4	6	224.9 KB
+33	ACA-0909	Taller de Investigación I	0	4	4	6	180.0 KB
+34	ARE-1038	Urbanismo I	3	1	4	6	235.4 KB
+35	ARC-1003	Administración de la Construcción I	2	2	4	6	268.4 KB
+36	ART-1032	Taller de Diseño V	2	6	8	7	328.9 KB
+37	ACA-0907	Taller de Ética	0	4	4	7	180.6 KB
+38	ACA-0910	Taller de Investigación II	0	4	4	7	176.2 KB
+39	ARC-1039	Urbanismo II	3	1	4	7	218.5 KB
+40	ARC-1004	Administración de la Construcción II	2	2	4	7	238.3 KB
+41	ART-1033	Taller de Diseño VI	2	6	8	8	353.9 KB
+42	ARE-1019	Gestión Urbanística	3	1	4	8	229.1 KB
+43	ARC-1001	Administración de Empresas Constructoras I	2	2	4	8	236.1 KB
+44	ARC-1002	Administración de Empresas Constructoras II	2	2	4	9	200.3 KB
+45		Especialidad			25	6	 
+46		Residencia Profesional			10	10	 
+47		Servicio Social			10	8	 
+48		Actividades Complementarias			5	1	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9	Semestre 10
+ARE-1015
+Fundamentos Teóricos del Diseño I
+3 1 4	ARC-1016
+Fundamentos Teóricos del Diseño II
+2 2 4	ARG-1028
+Taller de Diseño I
+3 3 6	ARC-1029
+Taller de Diseño II
+4 4 8	ARM-1030
+Taller de Diseño III
+3 5 8	ART-1031
+Taller de Diseño IV
+2 6 8	ART-1032
+Taller de Diseño V
+2 6 8	ART-1033
+Taller de Diseño VI
+2 6 8	 	
+Residencia Profesional
+10
+ACC-0906
+Fundamentos de Investigación
+2 2 4	ARC-1023
+Metodología para el Diseño
+2 2 4	ARC-1025
+Propiedades y Comportamiento de los Materiales
+2 2 4	ARJ-1026
+Taller de Construcción I
+4 2 6	ARJ-1027
+Taller de Construcción II
+4 2 6	 	 	 	 
+ARC-1009
+Análisis Proyectual
+2 2 4	ARC-1022
+Matemáticas Aplicadas a la Arquitectura
+2 2 4	ARC-1013
+Estructuras I
+2 2 4	ARC-1014
+Estructuras II
+2 2 4	ARJ-1012
+Estructuras de Concreto
+4 2 6	ARC-1011
+Estructuras de Acero
+2 2 4	ACA-0907
+Taller de Ética
+0 4 4	 	 
+ARC-1017
+Geometría Descriptiva I
+2 2 4	ARC-1018
+Geometría Descriptiva II
+2 2 4	ARH-1037
+Topografía
+1 3 4	ARE-1024
+Pensamiento Arquitectónico Contemporáneo
+3 1 4	ACD-0908
+Desarrollo Sustentable
+2 3 5	ACA-0909
+Taller de Investigación I
+0 4 4	ACA-0910
+Taller de Investigación II
+0 4 4	 	 
+ARE-1005
+Análisis Crítico de la Arquitectura y el Arte I
+3 1 4	ARE-1006
+Análisis Crítico de la Arquitectura y el Arte II
+3 1 4	ARE-1007
+Análisis Crítico de la Arquitectura y el Arte III
+3 1 4	ARE-1008
+Análisis Crítico de la Arquitectura y el Arte IV
+3 1 4	ARR-1010
+Estética
+2 1 3	ARE-1038
+Urbanismo I
+3 1 4	ARC-1039
+Urbanismo II
+3 1 4	ARE-1019
+Gestión Urbanística
+3 1 4	 
+ARX-1034
+Taller de Expresión Plástica
+0 6 6	ARX-1035
+Taller de Lenguaje Arquitectónico I
+1 5 6	ARX-1036
+Taller de Lenguaje Arquitectónico II
+1 5 6	ARC-1020
+Instalaciones I
+2 2 4	ARC-1021
+Instalaciones II
+2 2 4	ARC-1003
+Administración de la Construcción I
+2 2 4	ARC-1004
+Administración de la Construcción II
+2 2 4	ARC-1001
+Administración de Empresas Constructoras I
+2 2 4	ARC-1002
+Administración de Empresas Constructoras II
+2 2 4
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 
+ 	 	 	 	 	
+Especialidad
+25	 
+26	26	28	30	32	49	24	16	4	
+Asignaturas de la especialidad en Patrimonio, Paisaje y Ciudad
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	PPI-2001	Disc. y Consid. Sobre el Conoc. de Pat. y de Paisaje en la Ciudad	4	0	4	 
+2	PPI-2003	Interv. Urb. y Arquitectónicas del Pat. y del Pai. d la Ciudad	4	0	4	 
+3	PPJ-2002	Met. e Instrum. Norm. en la Plan. y Dis. del Paisaje	4	2	6	 
+4	PPP-2005	Historia y Teoría de la Proyectación del Paisajismo	3	0	3	 
+5	PPP-2006	Criterios para el Diseño Bioclimático Urbano y Arquitectónico	3	0	3	 
+6	PPT-2004	Taller de Proyectos del Patrimonio y del Paisaje de la Ciudad	2	6	8	 
+Total:	28	 
+ 
+
+Ingeniería Bioquímica
+IBQA-2010-207
+
+Especialidad en Ambiental
+
+Especialidad en Biotecnología
+
+Especialidad en Procesos Alimentarios
+
+Objetivo de la carrera
+Formar profesionales de la ingeniería bioquímica que, con sentido crítico, ético, creativo y emprendedor, diseñen, operen, controlen, simulen y optimicen equipos y procesos que utilicen recursos naturales y sus derivados, a través de un desarrollo sostenible, en la producción de bienes y servicios que contribuyan a elevar el nivel de vida de la sociedad.
+
+Objetivos educacionales
+El egresado de Ingeniería Bioquímica:
+
+Labora en industrias bioquímicas y/o empresas de servicios con base en el desarrollo tecnológico, de acuerdo a las normas ambientales, de higiene y seguridad, colaborando en equipos interdisciplinarios desempeñando las actividades relacionadas a su campo de trabajo con calidad.
+Realiza innovación y/o adaptación de tecnología en procesos aplicando la metodología cientíﬁca mediante tecnologías de la información y comunicación con respeto a la propiedad intelectual.
+Se comunica en forma oral y escrita según los requerimientos del entorno de manera expedita y concisa.
+Demuestra actitud creativa, emprendedora y de liderazgo para impulsar y crear empresas que contribuyan al progreso nacional administrando recursos humanos, materiales y ﬁnancieros para los sectores público y/o privado.
+Demuestra actitudes de superación continua para lograr metas profesionales con pertinencia y competitividad.
+Perfil de ingreso
+Criterio y razonamiento lógico para la solución de problemas.
+Habilidad y/o gusto por la investigación, análisis y síntesis de información.
+Expresión oral y escrita.
+Actitudes de: respeto, responsabilidad, honestidad.
+Habilidad y/o gusto por las ciencias naturales y el desarrollo de las tecnologías de la transformación de materias primas.
+Perfil de egreso
+El ingeniero bioquímico es un profesional que de manera individual o integrando grupos interdisciplinarios y multidisciplinarios es apto para: diseñar, seleccionar, adaptar, operar, controlar, simular, optimizar y escalar equipos y procesos en los que se utilicen de manera sostenible los recursos naturales. Proporcionar asesoría técnica a organismos y a empresas dedicadas a la transformación de recursos naturales.
+
+Atributos de egreso
+El egresado de Ingeniería Bioquímica:
+
+Identiﬁca y resuelve problemas mediante la modelación y optimización de equipos y/o procesos, aplicando conocimiento cientíﬁco y/o tecnológico, para el aprovechamiento de los recursos bióticos.
+Aplica normas y programas internacionales, nacionales y locales en entidades públicas y/o privadas relacionadas con la ingeniería Bioquímica.
+Realiza investigación cientíﬁca y tecnológica en el campo de la Ingeniería Bioquímica para contribuir al desarrollo de la sociedad.
+Coordinar equipos multidisciplinarios para formular y evaluar técnica y económicamente proyectos de Ingeniería Bioquímica, para coadyuvar al desarrollo regional, con criterios de sustentabilidad y sostenibilidad, aplicando marcos legales.
+Establecer comunicación de forma oral y escrita con múltiples audiencias; utilizando un lenguaje inclusivo en el ámbito laboral.
+Aprender y actualizarse durante su formación para fomentar a lo largo de su vida profesional la aplicación de conocimientos y/o tecnologías actuales y/o emergentes.
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+2	ACF-0901	Cálculo Diferencial	3	2	5	1	206.5 KB
+3	AEF-1057	Química	3	2	5	1	172.2 KB
+4	ACA-0907	Taller de Ética	0	4	4	1	180.6 KB
+5	BQW-1006	Comportamiento Organizacional	2	0	2	1	169.5 KB
+6	AEO-1012	Dibujo asistido por computadora	0	3	3	1	161.3 KB
+7	BQP-1001	Administración y Legislación de Empresas	3	0	3	2	163.2 KB
+8	ACF-0902	Cálculo Integral	3	2	5	2	166.4 KB
+9	BQF-1022	Química Orgánica I	3	2	5	2	175.2 KB
+10	AEF-1005	Biología	3	2	5	2	169.2 KB
+11	BQG-1021	Química Analítica	3	3	6	2	182.2 KB
+12	ACF-0903	Álgebra Lineal	3	2	5	2	199.7 KB
+13	ACF-0904	Cálculo Vectorial	3	2	5	3	188.6 KB
+14	ACF-0905	Ecuaciones Diferenciales	3	2	5	3	175.7 KB
+15	BQF-1023	Química Orgánica II	3	2	5	3	178.6 KB
+16	AEF-1065	Termodinámica	3	2	5	3	167.5 KB
+17	BQF-1010	Física	3	2	5	3	167.8 KB
+18	BQF-1007	Estadística	3	2	5	3	183.0 KB
+19	BQF-1020	Programación y Métodos Numéricos	3	2	5	4	173.6 KB
+20	AEF-1020	Electromagnetismo	3	2	5	4	184.3 KB
+21	AEJ-1007	Bioquímica	4	2	6	4	213.7 KB
+22	AEF-1004	Balance de Materia y Energía	3	2	5	4	150.1 KB
+23	BQF-1002	Análisis Instrumental	3	2	5	4	189.8 KB
+24	BQQ-1003	Aseguramiento de la Calidad	1	2	3	4	199.4 KB
+25	BQP-1015	Ingeniería Económica	3	0	3	5	183.7 KB
+26	BQJ-1008	Fenómenos de Transporte I	4	2	6	5	196.2 KB
+27	BQJ-1004	Bioquímica del Nitrógeno y Regulación Genética	4	2	6	5	182.9 KB
+28	BQF-1011	Fisicoquímica	3	2	5	5	168.4 KB
+29	ACD-0908	Desarrollo Sustentable	2	3	5	5	187.2 KB
+30	AEF-1039	Instrumentación y Control	3	2	5	5	170.7 KB
+31	BQJ-1017	Operaciones Unitarias I	4	2	6	6	172.0 KB
+32	BQJ-1009	Fenómenos de Transporte II	4	2	6	6	195.0 KB
+33	AEM-1050	Microbiología	2	4	6	6	174.9 KB
+34	BQW-1024	Seguridad e Higiene	2	0	2	2	214.1 KB
+35	BQF-1005	Cinética Química y Biológica	3	2	5	6	173.4 KB
+36	ACA-0909	Taller de Investigación I	0	4	4	6	180.0 KB
+37	ACA-0910	Taller de Investigación II	0	4	4	7	176.2 KB
+38	BQJ-1019	Operaciones Unitarias III	4	2	6	7	201.0 KB
+39	BQJ-1018	Operaciones Unitarias II	4	2	6	7	185.3 KB
+40	BQF-1012	Ingeniería de Biorreactores	3	2	5	7	179.1 KB
+41	BQC-1014	Ingeniería de Proyectos	2	2	4	8	172.6 KB
+42	BQF-1016	Ingeniería y Gestión Ambiental	3	2	5	8	192.3 KB
+43	BQF-1013	Ingeniería de Procesos	3	2	5	8	182.2 KB
+44	AEF-1029	Formulación y Evaluación de Proyectos	3	2	5	9	176.1 KB
+45		Especialidad			25	9	 
+46		Residencia Profesional			10	9	 
+47		Servicio Social			10	7	 
+48		Actividades Complementarias			5	1	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+ACC-0906
+Fundamentos de Investigación
+2 2 4	BQP-1001
+Administración y Legislación de Empresas
+3 0 3	ACF-0904
+Cálculo Vectorial
+3 2 5	BQF-1020
+Programación y Métodos Numéricos
+3 2 5	BQP-1015
+Ingeniería Económica
+3 0 3	BQJ-1017
+Operaciones Unitarias I
+4 2 6	ACA-0910
+Taller de Investigación II
+0 4 4	BQC-1014
+Ingeniería de Proyectos
+2 2 4	AEF-1029
+Formulación y Evaluación de Proyectos
+3 2 5
+ACF-0901
+Cálculo Diferencial
+3 2 5	ACF-0902
+Cálculo Integral
+3 2 5	ACF-0905
+Ecuaciones Diferenciales
+3 2 5	AEF-1020
+Electromagnetismo
+3 2 5	BQJ-1008
+Fenómenos de Transporte I
+4 2 6	BQJ-1009
+Fenómenos de Transporte II
+4 2 6	BQJ-1019
+Operaciones Unitarias III
+4 2 6	BQF-1016
+Ingeniería y Gestión Ambiental
+3 2 5	
+Residencia Profesional
+10
+AEF-1057
+Química
+3 2 5	BQF-1022
+Química Orgánica I
+3 2 5	BQF-1023
+Química Orgánica II
+3 2 5	AEJ-1007
+Bioquímica
+4 2 6	BQJ-1004
+Bioquímica del Nitrógeno y Regulación Genética
+4 2 6	AEM-1050
+Microbiología
+2 4 6	BQJ-1018
+Operaciones Unitarias II
+4 2 6	BQF-1013
+Ingeniería de Procesos
+3 2 5
+ACA-0907
+Taller de Ética
+0 4 4	AEF-1005
+Biología
+3 2 5	AEF-1065
+Termodinámica
+3 2 5	AEF-1004
+Balance de Materia y Energía
+3 2 5	BQF-1011
+Fisicoquímica
+3 2 5	BQW-1024
+Seguridad e Higiene
+2 0 2	BQF-1012
+Ingeniería de Biorreactores
+3 2 5	 	
+Especialidad
+25
+BQW-1006
+Comportamiento Organizacional
+2 0 2	BQG-1021
+Química Analítica
+3 3 6	BQF-1010
+Física
+3 2 5	BQF-1002
+Análisis Instrumental
+3 2 5	ACD-0908
+Desarrollo Sustentable
+2 3 5	BQF-1005
+Cinética Química y Biológica
+3 2 5	 	 
+AEO-1012
+Dibujo asistido por computadora
+0 3 3	ACF-0903
+Álgebra Lineal
+3 2 5	BQF-1007
+Estadística
+3 2 5	BQQ-1003
+Aseguramiento de la Calidad
+1 2 3	AEF-1039
+Instrumentación y Control
+3 2 5	ACA-0909
+Taller de Investigación I
+0 4 4	 	 	 
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 
+23	29	30	29	30	29	21	14	30
+Asignaturas de la especialidad en Ambiental
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	AMF-2401	Tratamiento de Aguas Residuales	3	2	5	288.4 KB
+2	AMF-2402	Control de la Contaminación Atmosférica	3	2	5	194.7 KB
+3	AMF-2403	Manejo Integral de Residuos Sólidos Peligrosos	3	2	5	192.4 KB
+4	AMF-2404	Evaluación del Impacto Ambiental	3	2	5	189.5 KB
+5	AMF-2405	Auditoría Ambiental	3	2	5	194.7 KB
+Total:	25	 
+Asignaturas de la especialidad en Biotecnología
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	BIF-2401	Biología Molecular	3	2	5	 
+2	BIF-2402	Fisiología y Metabolismo Fúngico	3	2	5	224.3 KB
+3	BIF-2403	Fisiología y Metabolismo Microbiano	3	2	5	218.9 KB
+4	BIF-2404	Fisiología Vegetal	3	2	5	230.0 KB
+5	BIF-2405	Biotecnología	3	2	5	 
+Total:	25	 
+Asignaturas de la especialidad en Procesos Alimentarios
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	PAF-2401	Ciencia de Alimentos	3	2	5	315.6 KB
+2	PAF-2402	Ingeniería de Alimentos	3	2	5	313.2 KB
+3	PAF-2403	Análisis de Alimentos	3	2	5	305.0 KB
+4	PAF-2404	Tecnología de Alimentos de Origen Vegetal	3	2	5	324.2 KB
+5	PAF-2405	Tecnología de Alimentos de Origen Animal	3	2	5	309.0 KB
+Total:	25	 
+Planta académica
+ 	Puesto	Nombre
+ 	Jefa de Departamento	BECERRA LOZA ANNEL STEFANIA
+ 	Coordinador de carrera	RODRIGUEZ BARRON JOSE ISRAEL
+ 	Presidente de Academia	FONSECA CANTABRANA ANGEL
+ 	Sec. de Acad.	HERNANDEZ PINTADO MARCELA RAQUEL
+ 	Docente y Jefa de los Lab. de An. de Alim. y Proc. de Alim.	CASTRO MARTINEZ ROSA
+ 	Docente y Jefa del Lab. de Termodin. y Química	CORONEL SANDOVAL LIDIA
+ 	Docente y Jefe del Lab. de Fisicoquímica	GARCIA PADILLA MIGUEL
+ 	Docente y Jefa del Lab. de Microbiología	AGUILERA AGUIRRE SELENE
+ 	Docente y Jefe del Lab. de Química Analítica	BARAJAS GONZALEZ SALVADOR
+ 	Docente y Coordinadora de Tutorías	ESPINOSA LEDESMA GEORGINA MARIEN
+ 	Docente	GARCES MARTINEZ MOISÉS
+ 	Docente	HERNANDEZ CORTEZ MARIA DEL REFUGIO
+ 	Docente	JIMENEZ LOPEZ GUILLERMO IRIAN
+ 	Docente	LEDEZMA MORALES AIDE
+ 	Docente	LOYA GOMEZ FIDEL ALEJANDRO
+ 	Docente	MIRAMONTES PARRA JOSE HORACIO
+ 	Docente	RODRIGUEZ DIAZ ALBINO
+ 	Docente	SALAZAR CARRILLO EVERARDO
+ 	Docente	TORRES RAMOS MARIA ISABEL
+ 	Docente	VIRGEN LIZÁRRAGA GUILLERMO
+ 
+
+Ingeniería Civil
+ICIV-2010-208
+
+Especialidad en Proyectos en Infraestructura
+
+Objetivo de la carrera
+Formaremos Ingenieros Civiles con capacidad científica y tecnológica; con visión humana, creativa y emprendedora para atender con eficiencia y pertinencia los requerimientos que genera el desarrollo de la sociedad, mediante la planeación, diseño, construcción, conservación y operación de obras civiles promoviendo el desarrollo sustentable.
+
+Objetivo educacional
+Expresa lo que el Instituto espera que sus egresados logren después de cuatro o cinco años de terminar sus estudios.
+
+El egresado ejerce su profesión de Ingeniería Civil en la planeación, diseño, construcción y conservación de obras de infraestructura.
+El egresado dirige o realiza investigación, desarrollo tecnológico o contribuye a la formación de personas en ingeniería.
+Perfil de egreso
+El Ingeniero Civil es el profesionista que tiene conocimientos, habilidades y actitudes aplicables en las áreas de estructuras, vías terrestres, hidráulica, administración, construcción, ingeniería sanitaria y geotecnia, tomando en consideración la conservación del medio ambiente, con la finalidad de:
+
+Planear, diseñar, construir, operar y conservar: Obras hidráulicas y sanitarias, Sistemas estructurales, Vías terrestres, Obras de urbanización e Instalaciones en obras civiles.
+Participar en la realización, evaluación y diagnostico de estudios técnicos, económicos y financieros de obras, proyectos de investigación y desarrollo tecnológico y estudios de impacto ambiental.
+Poseer habilidades para generar, adaptar y aplicar nuevas tecnologías; aplicar sistemas de información, programas y herramientas de cómputo; comunicarse en forma oral y escrita en nuestro idioma y en una segunda lengua; y administrar proyectos de ingeniería.
+Poseer una actitud propositiva y responsable que le permita ser factor de cambio en el desarrollo de su entorno, en la preservación de los recursos naturales, de actualización constante y disposición para el trabajo en equipo, con disciplina, con libertad en el ejercicio de su profesión y emprendedora que le permita implementar proyectos productivos.
+Atributos de egreso
+Son las capacidades esperadas (conocimientos, habilidades y actitudes) del egresado al término de su Plan de estudios, evidenciada mediante resultados de aprendizaje de los estudiantes en el programa educativo.
+
+Identifica, formula y resuelve problemas de ingeniería aplicando las ciencias básicas y de ingeniería.
+Analiza situaciones ingenieriles y aplica sus conocimientos obteniendo diseños de ingeniería que resulten en proyectos que resuelven las necesidades especificadas.
+Dirige y realiza procesos de generación y aplicación especializada de conocimiento ingenieril; analiza e interpreta los resultados y obtiene conclusiones.
+Se comunica efectivamente por diferentes medios con diferentes audiencias.
+Reconoce sus responsabilidades éticas y profesionales en situaciones relevantes para la ingeniería y realiza juicios informados, que consideren el impacto de sus propuestas en los contextos global, económico, ambiental y social.
+Reconoce la necesidad de mantener vigentes sus competencias profesionales, y tiene la capacidad de gestionarlo, integrarlo y aplicarlo en su profesión.
+Trabaja efectivamente en equipos que formulan planes y programas, establecen y cumplen metas en tiempo y forma administrando los eventuales riesgos e incertidumbres.
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+2	ACF-0901	Cálculo Diferencial	3	2	5	1	206.5 KB
+3	ACA-0907	Taller de Ética	0	4	4	1	180.6 KB
+4	ACF-0902	Cálculo Integral	3	2	5	2	166.4 KB
+5	ICA-1031	Software en Ingeniería Civil	0	4	4	1	170.0 KB
+6	ICM-1008	Dibujo en Ingeniería Civil	2	4	6	1	171.3 KB
+7	ACF-0903	Álgebra Lineal	3	2	5	3	199.7 KB
+8	ACF-0904	Cálculo Vectorial	3	2	5	2	188.6 KB
+9	ICC-1029	Probabilidad y Estadística	2	2	4	2	179.4 KB
+10	ICT-1033	Topografía	2	6	8	2	177.9 KB
+11	ICC-1023	Materiales y Procesos Constructivos	2	2	4	2	178.0 KB
+12	AEC-1058	Química	2	2	4	1	187.1 KB
+13	ICF-1014	Estática	3	2	5	3	186.6 KB
+14	ACF-0905	Ecuaciones Diferenciales	3	2	5	3	175.7 KB
+15	ICC-1017	Geología	2	2	4	2	177.6 KB
+16	ICG-1006	Carreteras	3	3	6	3	171.6 KB
+17	ICC-1032	Tecnología del Concreto	2	2	4	3	175.3 KB
+18	ICC-1028	Modelos de Optimización de Recursos	2	2	4	4	193.1 KB
+19	ICE-1016	Fundamentos de la Mecánica de los Medios Continuos	3	1	4	4	192.7 KB
+20	ICC-1027	Métodos Numéricos	2	2	4	4	184.3 KB
+21	ICJ-1025	Mecánica de Suelos	4	2	6	4	194.1 KB
+22	ICC-1022	Maquinaria Pesada y Movimiento de Tierra	2	2	4	4	171.5 KB
+23	ICF-1009	Dinámica	3	2	5	4	164.1 KB
+24	ICC-1030	Sistemas de Transporte	2	2	4	3	167.6 KB
+25	ICF-1024	Mecánica de Materiales	3	2	5	5	177.2 KB
+26	ACD-0908	Desarrollo Sustentable	2	3	5	5	187.2 KB
+27	ICJ-1026	Mecánica de Suelos Aplicada	4	2	6	5	180.3 KB
+28	ICC-1007	Costos y Presupuestos	2	2	4	5	174.5 KB
+29	ICC-1002	Administración de la Construcción	2	2	4	6	187.3 KB
+30	ICG-1018	Hidráulica Básica	3	3	6	5	200.9 KB
+31	ICF-1004	Análisis Estructural	3	2	5	6	177.9 KB
+32	ICD-1021	Instalaciones en los Edificios	2	3	5	6	170.4 KB
+33	ICG-1013	Diseño y Construcción de Pavimentos	3	3	6	6	174.3 KB
+34	ACA-0909	Taller de Investigación I	0	4	4	5	180.0 KB
+35	ICC-1020	Hidrología Superficial	2	2	4	6	181.1 KB
+36	ICG-1019	Hidráulica de Canales	3	3	6	6	177.6 KB
+37	ICF-1005	Análisis Estructural Avanzado	3	2	5	7	172.8 KB
+38	ICF-1011	Diseño de Elementos de Concreto Reforzado	3	2	5	7	180.0 KB
+39	ACA-0910	Taller de Investigación II	0	4	4	7	176.2 KB
+40	ICJ-1001	Abastecimiento de Agua	4	2	6	7	176.9 KB
+41	ICC-1012	Diseño Estructural de Cimentaciones	2	2	4	8	182.4 KB
+42	ICF-1010	Diseño de Elementos de Acero	3	2	5	8	189.7 KB
+43	ICC-1015	Formulación y Evaluación de Proyectos	2	2	4	8	194.0 KB
+44	ICC-1003	Alcantarillado	2	2	4	8	174.3 KB
+45		Especialidad			25	9	 
+46		Residencia Profesional			10	9	 
+47		Servicio Social			10	7	 
+48		Actividades Complementarias			5	1	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+ACC-0906
+Fundamentos de Investigación
+2 2 4	ACF-0904
+Cálculo Vectorial
+3 2 5	ICF-1014
+Estática
+3 2 5	ICE-1016
+Fundamentos de la Mecánica de los Medios Continuos
+3 1 4	ICF-1024
+Mecánica de Materiales
+3 2 5	ICF-1004
+Análisis Estructural
+3 2 5	ICF-1005
+Análisis Estructural Avanzado
+3 2 5	ICC-1012
+Diseño Estructural de Cimentaciones
+2 2 4	 
+ACF-0901
+Cálculo Diferencial
+3 2 5	ICC-1017
+Geología
+2 2 4	ACF-0905
+Ecuaciones Diferenciales
+3 2 5	ICC-1027
+Métodos Numéricos
+2 2 4	ACD-0908
+Desarrollo Sustentable
+2 3 5	ICD-1021
+Instalaciones en los Edificios
+2 3 5	ICF-1011
+Diseño de Elementos de Concreto Reforzado
+3 2 5	ICF-1010
+Diseño de Elementos de Acero
+3 2 5	
+Residencia Profesional
+10
+ACA-0907
+Taller de Ética
+0 4 4	ICC-1029
+Probabilidad y Estadística
+2 2 4	ACF-0903
+Álgebra Lineal
+3 2 5	ICJ-1025
+Mecánica de Suelos
+4 2 6	ICJ-1026
+Mecánica de Suelos Aplicada
+4 2 6	ICG-1013
+Diseño y Construcción de Pavimentos
+3 3 6	ACA-0910
+Taller de Investigación II
+0 4 4	ICC-1015
+Formulación y Evaluación de Proyectos
+2 2 4
+AEC-1058
+Química
+2 2 4	ICT-1033
+Topografía
+2 6 8	ICG-1006
+Carreteras
+3 3 6	ICC-1022
+Maquinaria Pesada y Movimiento de Tierra
+2 2 4	ICC-1007
+Costos y Presupuestos
+2 2 4	ICC-1002
+Administración de la Construcción
+2 2 4	ICJ-1001
+Abastecimiento de Agua
+4 2 6	ICC-1003
+Alcantarillado
+2 2 4	
+Especialidad
+25
+ICA-1031
+Software en Ingeniería Civil
+0 4 4	ICC-1023
+Materiales y Procesos Constructivos
+2 2 4	ICC-1032
+Tecnología del Concreto
+2 2 4	ICF-1009
+Dinámica
+3 2 5	ACA-0909
+Taller de Investigación I
+0 4 4	ICC-1020
+Hidrología Superficial
+2 2 4	 	 
+ICM-1008
+Dibujo en Ingeniería Civil
+2 4 6	ACF-0902
+Cálculo Integral
+3 2 5	ICC-1030
+Sistemas de Transporte
+2 2 4	ICC-1028
+Modelos de Optimización de Recursos
+2 2 4	ICG-1018
+Hidráulica Básica
+3 3 6	ICG-1019
+Hidráulica de Canales
+3 3 6	 	 	 
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 
+27	30	29	27	30	30	20	17	25
+Asignaturas de la especialidad en Proyectos en Infraestructura
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	DMD2001	Construcción	2	3	5	 
+2	DMD2002	Desarrollo Empresarial	2	3	5	 
+3	DMD2003	Proyectos Ejecutivos en Edificación e Infraestructura Urbana	2	3	5	 
+4	DMD2004	Proyectos Municipales	2	3	5	 
+5	DMD2005	Proyectos Ejecutivos en Obras Hidráulicas e Ingeniería Sanitaria	2	3	5	 
+Total:	25	 
+
+Ingeniería Eléctrica
+IELE-2010-209
+
+Especialidad en Auditoría Energética y Fuentes Renovables
+
+Objetivo de la carrera
+Formar profesionales competentes en Ingeniería Eléctrica con capacidad creativa, emprendedora, analítica, de liderazgo y trabajo en equipo, que realicen actividades de diseño, innovación, adaptación y transferencia de tecnologías para resolver problemas de su área, atendiendo las necesidades del entorno globalizado, con una conciencia ética y social, asumiendo un compromiso con el desarrollo tecnológico y sustentable.
+
+Objetivos Educacionales
+Los graduados son profesionales exitosos del sector eléctrico local, regional y nacional en las distintas áreas de la ingeniería eléctrica como son generación, transmisión, distribución y uso de la energía eléctrica tanto en sectores público y privado dentro de un marco legal y ético.
+Los graduados son agentes de cambio en el uso de fuentes alternas de energía eléctrica y en el uso eficiente de la misma satisfaciendo las necesidades de los distintos sectores económicos.
+Los graduados participan como líderes o como colaboradores en equipos multidisciplinarios de los sectores sociales y productivos que dan valor agregado a los procesos y servicios comprometidos con el desarrollo de su organización.
+English
+Educational goals of Electrical Engineering
+The graduates are successful professionals in the local, regional, and national electrical sector across various areas of electrical engineering, such as generation, transmission, distribution, and the use of electrical energy, in both public and private sectors, within a legal and ethical framework.
+The graduates are agents of change in the use of alternative sources of electrical energy and in its efficient use, meeting the needs of various economic sectors.
+Graduates participate as leaders or collaborators in multidisciplinary teams within social and productive sectors, adding value to processes and services committed to the development of their organization.
+Perfil de ingreso
+El ingeniero eléctrico estudia, diseña, proyecta y desarrolla sistemas cuya fuerza motriz es la electricidad; como sistemas de generación, transmisión, distribución, conversión y utilización de la energía eléctrica. Toma la dirección de la instalación, operación, control y mantenimiento de estos sistemas. Todo ello en forma eficiente y económica. También estudia aspectos tecnológicos de determinados materiales, productos o procesos y asesoran al respecto. Cuenta con conocimientos de las matemáticas, así como de los principios y métodos de análisis y diseño técnico en electricidad que le permiten determinar, predecir y evaluar los resultados que se obtendrán de estos sistemas. También cuenta con conocimientos en ciencias económicas, financieras, administrativas y control de gestión, que complementan su formación científica y tecnológica, permitiéndole administrar recursos.
+
+Perfil de egreso
+Planea, diseña, instala y opera sistemas eléctricos, conforme a la normatividad para el desarrollo de proyectos eléctricos eficientes y sustentables.
+Planea, diseña, instala y opera sistemas de control y automatización, utilizando tecnología de punta, para el desarrollo de proyectos eléctricos.
+Participa en la administración y toma de decisiones de los recursos humanos, económicos y materiales para la realización de proyectos y obras eléctricas.
+Promueve y aplica las acciones necesarias relacionadas con el desarrollo sustentable de manera responsable, legal y ética, para la preservación del medio ambiente.
+Promueve y realiza proyectos de investigación y desarrollo tecnológico para contribuir al progreso regional y nacional.
+Incorpora nuevas tecnologías para la mejora de los procesos industriales, equipos y obras eléctricas.
+Analiza y realiza mantenimiento de equipos e instalaciones eléctricas para que las condiciones de operación sean seguras, eficientes y económicas.
+Utiliza las nuevas tecnologías de la información y comunicación para contribuir a la productividad y el logro de objetivos estratégicos de las organizaciones.
+Desarrolla una visión emprendedora realizando actividades profesionales para que establezca su propia empresa y contribuya al desarrollo de su entorno.
+Participa en equipos interdisciplinarios y multidisciplinarios para el desarrollo de proyectos integrales.
+Aplica la comunicación oral y escrita para elaborar reportes, informes técnicos y proyectos de investigación, con apoyo de medios gráficos y/o audiovisuales.
+Participa en su entorno político, económico, social y cultural para el desarrollo de su comunidad.
+Aplica sus habilidades de liderazgo para coadyuvar en su ámbito personal, social y laboral.
+Crece personalmente en todas sus dimensiones, adquiriendo conciencia de su propia identidad, para el logro de sus aspiraciones y desarrollo de sus potencialidades.
+Atributos de egreso
+Atributos de egreso
+
+Aplica los conocimientos de las ciencias básicas y los fundamentos de la ingeniería para desarrollar soluciones a problemas complejos de ingeniería eléctrica.
+Identifica, formula, investiga y analiza problemas complejos de ingeniería eléctrica utilizando los principios de las ciencias básicas y ciencias de la ingeniería con consideraciones holísticas para el desarrollo sostenible.
+Diseña soluciones creativas a problemas complejos de ingeniería eléctrica para satisfacer las necesidades identificadas, teniendo en cuenta el impacto en los recursos, la cultura, la sociedad y las consideraciones ambientales.
+Realiza investigaciones sobre problemas complejos de ingeniería eléctrica mediante métodos de investigación adecuados, incorporando conocimiento basado en evidencia, el diseño de experimentos, así como el análisis e interpretación de datos; además de la síntesis de la información para obtener conclusiones válidas y fundamentadas.
+Crea, selecciona, aplica y reconoce las limitaciones de las técnicas, los recursos y las herramientas modernas de la ingeniería, incluyendo la predicción y la modelización, a problemas complejos de la ingeniería eléctrica.
+Al resolver problemas complejos de ingeniería eléctrica, analiza y evalúa los impactos del desarrollo sostenible en la sociedad, la economía, la sostenibilidad, la salud, la seguridad, los marcos legales y el medio ambiente.
+Aplica los principios éticos y se compromete con la ética profesional y las normas de la práctica de la ingeniería eléctrica, y cumple con las leyes nacionales e internacionales pertinentes. Demuestra que comprende la necesidad de la diversidad y la inclusión.
+Se desempeña eficazmente como individuo y como miembro o líder en equipos diversos e inclusivos en entornos multidisciplinarios, presenciales, remotos y distribuidos.
+Se comunica de forma efectiva e inclusiva en actividades complejas de ingeniería con la comunidad de ingenieros eléctricos y áreas afines, y con la sociedad en general, teniendo en cuenta las diferencias culturales, lingüísticas y de aprendizaje.
+Aplica el conocimiento y la comprensión de los principios de gestión de proyectos de ingeniería y la toma de decisiones económicas, así como para gestionar proyectos en entornos multidisciplinarios.
+Reconoce la necesidad, tiene la preparación y la capacidad para el aprendizaje independiente durante toda la vida; la adaptabilidad a las tecnologías nuevas y emergentes; y el pensamiento crítico en el contexto más amplio del cambio tecnológico.
+Misión
+Formar profesionales competitivos con programas educativos reconocidos por su calidad, capaces de contribuir al fortalecimiento de la ciencia y la tecnología, al desarrollo sustentable y a la promoción de la equidad de género, respondiendo a las demandas educativas de los contextos regional, nacional e internacional.
+Visión
+Lograr la consolidación como institución de alto desempeño en educación superior tecnológica, con posgrados, educación continua y a distancia, estableciendo alianzas estratégicas a nivel global y estrechando la relación con nuestra sociedad, con base en los principios y valores institucionales.
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	ACF-0901	Cálculo Diferencial	3	2	5	1	206.5 KB
+2	AEC-1058	Química	2	2	4	1	187.1 KB
+3	AEE-1051	Probabilidad y Estadística	3	1	4	1	174.6 KB
+4	ELO-1008	Desarrollo Humano Integral	0	3	3	1	188.0 KB
+5	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+6	ACA-0907	Taller de Ética	0	4	4	1	180.6 KB
+7	ACF-0902	Cálculo Integral	3	2	5	2	166.4 KB
+8	AEF-1042	Mecánica Clásica	3	2	5	2	167.5 KB
+9	AEF-1020	Electromagnetismo	3	2	5	2	184.3 KB
+10	ELQ-1025	Tecnología de los Materiales	1	2	3	2	175.5 KB
+11	AEA-1013	Dibujo Asistido por Computadora	0	4	4	2	177.7 KB
+12	ELO-1004	Comunicación Humana	0	3	3	3	180.1 KB
+13	ACF-0904	Cálculo Vectorial	3	2	5	3	188.6 KB
+14	ACF-0903	Álgebra Lineal	3	2	5	3	199.7 KB
+15	ELJ-1002	Circuitos Eléctricos I	4	2	6	3	189.9 KB
+16	ELD-1018	Mediciones Eléctricas	2	3	5	2	186.5 KB
+17	ELF-1017	Mecánica de Fluidos y Termodinámica	3	2	5	3	182.7 KB
+18	ELC-1022	Programación	2	2	4	3	189.7 KB
+19	ACF-0905	Ecuaciones Diferenciales	3	2	5	4	175.7 KB
+20	ELR-1011	Física Moderna	2	1	3	4	170.7 KB
+21	ELJ-1003	Circuitos Eléctricos II	4	2	6	4	190.2 KB
+22	AEF-1021	Electrónica Analógica	3	2	5	4	164.6 KB
+23	ELE-1026	Teoría Electromagnética	3	1	4	4	176.2 KB
+24	ELC-1019	Métodos Numéricos	2	2	4	4	184.4 KB
+25	AEF-1009	Control I	3	2	5	5	178.1 KB
+26	ELE-1010	Equipos Mecánicos	3	1	4	5	182.8 KB
+27	ELF-1027	Transformadores	3	2	5	5	189.8 KB
+28	AEC-1022	Electrónica Digital	2	2	4	5	164.3 KB
+29	ELC-1013	Instalaciones Eléctricas	2	2	4	5	204.1 KB
+30	ACD-0908	Desarrollo Sustentable	2	3	5	5	187.2 KB
+31	AEF-1010	Control II	3	2	5	6	171.5 KB
+32	ELP-1015	Legislación en Materia Eléctrica	3	0	3	6	172.4 KB
+33	ELF-1016	Máquinas Sincrónicas y de CD	3	2	5	6	191.4 KB
+34	ELF-1021	Motores de Inducción y Especiales	3	2	5	6	189.4 KB
+35	ELF-1014	Instalaciones Eléctricas Industriales	3	2	5	6	193.0 KB
+36	ACA-0909	Taller de Investigación I	0	4	4	6	180.0 KB
+37	ELF-1005	Control de Máquinas Eléctricas	3	2	5	7	188.9 KB
+38	ELF-1020	Modelado de Sistemas Eléctricos de Potencia	3	2	5	7	172.0 KB
+39	ELE-1001	Centrales Eléctricas	3	1	4	7	182.7 KB
+40	ELD-1009	Electrónica Industrial	2	3	5	7	183.0 KB
+41	AEF-1038	Instrumentación	3	2	5	7	182.6 KB
+42	ACA-0910	Taller de Investigación II	0	4	4	7	176.2 KB
+43	ELC-1007	Costos y Presupuesto de Proyectos Eléctricos	2	2	4	8	167.7 KB
+44	ELQ-1012	Gestión Empresarial y Liderazgo	1	2	3	8	180.6 KB
+45	ELF-1006	Controlador Lógico Programable	3	2	5	8	185.9 KB
+46	ELF-1023	Pruebas y Mantenimiento Eléctrico	3	2	5	8	208.6 KB
+47	ELC-1024	Sistemas de Iluminación	2	2	4	8	186.3 KB
+48		Especialidad			26	9	 
+49		Residencia Profesional			10	9	 
+50		Servicio Social			10	7	 
+51		Actividades Complementarias			5	1	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+ACF-0901
+Cálculo Diferencial
+3 2 5	ACF-0902
+Cálculo Integral
+3 2 5	ACF-0904
+Cálculo Vectorial
+3 2 5	ACF-0905
+Ecuaciones Diferenciales
+3 2 5	AEF-1009
+Control I
+3 2 5	AEF-1010
+Control II
+3 2 5	ELF-1005
+Control de Máquinas Eléctricas
+3 2 5	ELC-1007
+Costos y Presupuesto de Proyectos Eléctricos
+2 2 4	 
+AEC-1058
+Química
+2 2 4	AEF-1042
+Mecánica Clásica
+3 2 5	ACF-0903
+Álgebra Lineal
+3 2 5	ELR-1011
+Física Moderna
+2 1 3	ELE-1010
+Equipos Mecánicos
+3 1 4	ELP-1015
+Legislación en Materia Eléctrica
+3 0 3	ELF-1020
+Modelado de Sistemas Eléctricos de Potencia
+3 2 5	ELQ-1012
+Gestión Empresarial y Liderazgo
+1 2 3	
+Residencia Profesional
+10
+AEE-1051
+Probabilidad y Estadística
+3 1 4	AEF-1020
+Electromagnetismo
+3 2 5	ELJ-1002
+Circuitos Eléctricos I
+4 2 6	ELJ-1003
+Circuitos Eléctricos II
+4 2 6	ELF-1027
+Transformadores
+3 2 5	ELF-1016
+Máquinas Sincrónicas y de CD
+3 2 5	ELE-1001
+Centrales Eléctricas
+3 1 4	ELF-1006
+Controlador Lógico Programable
+3 2 5
+ELO-1008
+Desarrollo Humano Integral
+0 3 3	ELD-1018
+Mediciones Eléctricas
+2 3 5	ELC-1022
+Programación
+2 2 4	AEF-1021
+Electrónica Analógica
+3 2 5	AEC-1022
+Electrónica Digital
+2 2 4	ELF-1021
+Motores de Inducción y Especiales
+3 2 5	ELD-1009
+Electrónica Industrial
+2 3 5	ELF-1023
+Pruebas y Mantenimiento Eléctrico
+3 2 5	
+Especialidad
+26
+ACC-0906
+Fundamentos de Investigación
+2 2 4	AEA-1013
+Dibujo Asistido por Computadora
+0 4 4	ELF-1017
+Mecánica de Fluidos y Termodinámica
+3 2 5	ELE-1026
+Teoría Electromagnética
+3 1 4	ELC-1013
+Instalaciones Eléctricas
+2 2 4	ELF-1014
+Instalaciones Eléctricas Industriales
+3 2 5	AEF-1038
+Instrumentación
+3 2 5	ELC-1024
+Sistemas de Iluminación
+2 2 4
+ACA-0907
+Taller de Ética
+0 4 4	ELQ-1025
+Tecnología de los Materiales
+1 2 3	ELO-1004
+Comunicación Humana
+0 3 3	ELC-1019
+Métodos Numéricos
+2 2 4	ACD-0908
+Desarrollo Sustentable
+2 3 5	ACA-0909
+Taller de Investigación I
+0 4 4	ACA-0910
+Taller de Investigación II
+0 4 4	 	 
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 
+24	27	28	27	27	27	28	21	26
+Asignaturas de la especialidad en Auditoría Energética y Fuentes Renovables
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	AEF-2601	Formulación y Evaluación de Proyectos	3	2	5	197.9 KB
+2	AEF-2602	Redes de Distribución	3	3	6	219.8 KB
+3	AEF-2603	Instalaciones especiales	3	2	5	206.7 KB
+4	AEF-2604	Energía Solar y Fuentes Renovables	3	2	5	211.4 KB
+5	AEF-2605	Protección de Sistemas Eléctricos de Potencia	3	2	5	186.1 KB
+Total:	26	 
+Planta académica
+ 	Puesto	Nombre
+ 	Jefe de Departamento	CASTAÑEDA MONTAÑO LUIS ALBERTO
+ 	Coordinadora de Carrera	BECERRA ENRIQUEZ CLAUDIA ALEJANDRA
+ 	Docente	AGUILAR GONZALEZ ANTONIO
+ 	Docente	ALTAMIRANO LOPEZ JORGE EFRAIN
+ 	Docente	BELTRAN DIAZ ALEJANDRO
+ 	Docente	BELTRAN RAZURA RICARDO
+ 	Docente	BONILLA RODRIGUEZ SAUL
+ 	Docente	CAMPOS GUTIERREZ JORGE ALBERTO
+ 	Docente	CHAVEZ ARCEGA IGNACIO
+ 	Docente	ESPINOSA DEL MURO LUIS ENRIQUE
+ 	Docente	GARCIA MADRIGAL JOSE ANTONIO
+ 	Docente	JAIME LOPEZ JOSE LUIS
+ 	Docente	LLAMAS NEGRETE JUAN CARLOS
+ 	Docente	LOPEZ CABALLERO ISAIAS ADMIN
+ 	Docente	NAVARRETE GUZMAN ANTONIO
+ 	Docente	PALOMINO NAVARRO GABRIEL ARMANDO
+ 	Docente	PARRA MAYORQUIN JUAN JOSE
+ 	Docente	PEREZ PARRA ALBERTO
+ 	Docente	PUGA CASTAÑEDA JOSE ABRAHAM
+ 	Docente	RIOS CHAVEZ ANGEL
+ 	Docente	SANCHEZ LOPEZ ROGELIO
+ 	Docente	ZAMORANO MEZA MARCOS GABRIEL
+
+Ingeniería en Gestión Empresarial
+IGEM-2009-201
+
+Especialidad en Gestión de Negocios
+
+Objetivo de la carrera
+Formar profesionales que contribuyan a la gestión de empresas e innovación de procesos; así como al diseño, implementación y desarrollo de sistemas estratégicos de negocios, optimizando recursos en un entorno global, con ética y responsabilidad social.
+
+Objetivos Educacionales
+Aplican las habilidades directivas en los diferentes niveles jerárquicos de la organización.
+Fortalecen su desarrollo profesional a través de cursos de especialidad, certificaciones, diplomados, maestrías entre otros.
+Aplican sus competencias emprendedoras para crear y dirigir empresas.
+Utilizan tecnologías de la información y comunicaciones para mejorar el desempeño de sus actividades.
+Perfil de ingreso
+Actitud emprendedora.
+Habilidades de expresión y comunicación verbal, oral y escrita.
+Conocimientos básicos en el uso de las TICs.
+Habilidades de liderazgo.
+Trabajo en equipo.
+Enfrentar retos.
+Habilidades en métodos de estudio.
+Interés hacia las asignaturas del área de ciencias económico administrativas.
+Actitud de respeto a la diversidad cultural.
+Conciencia ecológica.
+Perfil de egreso
+Aplica habilidades directivas y de ingeniería en el diseño, gestión, fortalecimiento e innovación de las organizaciones para la toma de decisiones en forma efectiva, con una orientación sistémica y sustentable.
+Diseña e innova estructuras administrativas y procesos, con base en las necesidades de las organizaciones para competir eficientemente en mercados globales.
+Gestiona eficientemente los recursos de la organización con visión compartida, con el fin de suministrar bienes y servicios de calidad.
+Aplica métodos cuantitativos y cualitativos en el análisis e interpretación de datos y modelado de sistemas en los procesos organizacionales, para la mejora continua atendiendo estándares de calidad mundial.
+Diseña, y emprende nuevos negocios y proyectos empresariales sustentables en mercados competitivos, para promover el desarrollo.
+Diseña e implementa estrategias de mercadotecnia basadas en información recopilada de fuentes primarias y secundarias, para incrementar la competitividad de las organizaciones.
+Implementa planes y programas de seguridad e higiene para el fortalecimiento del entorno laboral.
+Gestiona sistemas integrales de calidad para la mejora de los procesos, ejerciendo un liderazgo estratégico y un compromiso ético.
+Aplica las normas legales para la creación y desarrollo de las organizaciones.
+Dirige equipos de trabajo para la mejora continua y el crecimiento integral de las organizaciones.
+Interpreta la información financiera para detectar oportunidades de mejora e inversión en un mundo global, que propicien la rentabilidad del negocio.
+Utiliza las nuevas tecnologías de información y comunicación en la organización, para optimizar los procesos y la eficaz toma de decisiones.
+Promueve el desarrollo del capital humano, para la realización de los objetivos organizacionales, dentro de un marco ético y un contexto multicultural.
+Aplica métodos de investigación para desarrollar e innovar modelos, sistemas, procesos y productos en las diferentes dimensiones de la organización.
+Gestiona la cadena de suministro de las organizaciones con un enfoque orientado a procesos para incrementar la productividad.
+Analiza las variables económicas para facilitar la toma estratégica de decisiones en la organización.
+Actúa como agente de cambio para facilitar la mejora continua y el desempeño de las organizaciones.
+Aplica métodos, técnicas y herramientas para la solución de problemas en la gestión empresarial con una visión estratégica.
+Atributos de egreso
+Identificar y resolver problemas aplicando técnicas y métodos de ingeniería.
+Diseñar e innovar estructuras administrativas y procesos, con base en las necesidades de las organizaciones para competir en mercados globales.
+Formular, evaluar y emprender proyectos diversos considerando el entorno económico.
+Comunicar efectivamente en diferentes entornos, apoyándose en las tecnologías de la información.
+Gestionar y utilizar los recursos para el diseño, constitución y operación de empresas en un marco legal y responsabilidad social.
+Asumir el compromiso de un aprendizaje continuo para fortalecer sus habilidades profesionales y ampliar sus áreas de oportunidad.
+Dirigir y participar en equipos multidisciplinarios e interculturales en busca del cumplimiento de objetivos, y el fortalecimiento de sus miembros.
+Implementar sistemas de gestión de calidad en las organizaciones.
+Misión
+Formar integralmente ingenieros en gestión empresarial competitivos en el ámbito nacional e internacional; comprometidos con la sociedad y su entorno, aplicando con profesionalismo; la ciencia, la tecnología y valores sociales, sustentados en programas educativos de excelencia.
+
+Visión
+Consolidar la carrera de Ingeniería en Gestión Empresarial como pieza fundamental en las áreas claves de las organizaciones; a través, de la formación científica, tecnológica y ética de sus estudiantes, conscientes de las necesidades de una sociedad globalizada.
+
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+2	ACF-0901	Cálculo Diferencial	3	2	5	1	206.5 KB
+3	GEC-0905	Desarrollo Humano	2	2	4	1	170.6 KB
+4	AEF-1074	Fundamentos de Gestión Empresarial	3	2	5	1	165.9 KB
+5	GEC-0909	Fundamentos de Física	2	2	4	1	166.9 KB
+6	GEF-0910	Fundamentos de Química	3	2	5	1	169.9 KB
+7	AEB-1082	Software de Aplicación Ejecutivo	1	4	5	2	169.4 KB
+8	ACF-0902	Cálculo Integral	3	2	5	2	166.4 KB
+9	GED-0903	Contabilidad Orientada a los Negocios	2	3	5	2	169.2 KB
+10	AEC-1014	Dinámica Social	2	2	4	2	183.0 KB
+11	ACA-0907	Taller de Ética	0	4	4	2	180.6 KB
+12	GEE-0918	Legislación Laboral	3	1	4	2	179.7 KB
+13	AEC-1078	Marco Legal de las Organizaciones	2	2	4	3	167.6 KB
+14	GEF-0921	Probabilidad y Estadística Descriptiva	2	3	5	3	171.9 KB
+15	GED-0904	Costos Empresariales	2	3	5	3	178.0 KB
+16	GEC-0913	Habilidades Directivas I	2	2	4	3	171.8 KB
+17	AEF-1071	Economía Empresarial	3	2	5	3	170.0 KB
+18	ACF-0903	Álgebra Lineal	3	2	5	3	199.7 KB
+19	GEF-0916	Ingeniería Económica	3	2	5	4	177.8 KB
+20	GEG-0907	Estadística Inferencial I	3	3	6	4	182.5 KB
+21	GED-0917	Instrumentos de Presupuestación Empresarial	2	3	5	4	172.9 KB
+22	GEC-0914	Habilidades Directivas II	2	2	4	4	168.9 KB
+23	GEF-0906	Entorno Macroeconómico	3	2	5	4	178.0 KB
+24	AEF-1076	Investigación de Operaciones	3	2	5	4	178.7 KB
+25	AEF-1073	Finanzas en las Organizaciones	3	2	5	5	169.9 KB
+26	GEG-0908	Estadística Inferencial II	3	3	6	5	191.2 KB
+27	GEF-0915	Ingeniería de Procesos	3	2	5	5	165.2 KB
+28	AEG-1075	Gestión del Capital Humano	3	3	6	5	190.2 KB
+29	ACA-0909	Taller de Investigación I	0	4	4	5	180.0 KB
+30	GEF-0919	Mercadotecnia	3	2	5	5	185.9 KB
+31	GEF-0901	Administración de la Salud y Seguridad Ocupacional	3	2	5	6	177.8 KB
+32	AED-1072	El Emprendedor y la Innovación	2	3	5	6	177.1 KB
+33	GEC-0911	Gestión de la Producción I	2	2	4	6	176.3 KB
+34	AED-1015	Diseño Organizacional	2	3	5	6	181.8 KB
+35	ACA-0910	Taller de Investigación II	0	4	4	6	176.2 KB
+36	GED-0922	Sistemas de Información de Mercadotecnia	2	3	5	6	186.8 KB
+37	AED-1069	Calidad Aplicada a la Gestión Empresarial	2	3	5	7	174.5 KB
+38	GEC-0920	Plan de Negocios	2	3	5	7	208.3 KB
+39	GEC-0912	Gestión de la Producción II	2	2	4	7	173.0 KB
+40	AED-1035	Gestión Estratégica	2	3	5	7	171.1 KB
+41	ACD-0908	Desarrollo Sustentable	2	3	5	7	187.2 KB
+42	AEB-1045	Mercadotecnia Electrónica	1	4	5	7	175.3 KB
+43	GEF-0902	Cadena de Suministros	3	2	5	8	176.4 KB
+44		Especialidad			30	9	 
+45		Residencia Profesional			10	9	 
+46		Servicio Social			10	7	 
+47		Actividades Complementarias			5	1	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+ACC-0906
+Fundamentos de Investigación
+2 2 4	AEB-1082
+Software de Aplicación Ejecutivo
+1 4 5	AEC-1078
+Marco Legal de las Organizaciones
+2 2 4	GEF-0916
+Ingeniería Económica
+3 2 5	AEF-1073
+Finanzas en las Organizaciones
+3 2 5	GEF-0901
+Administración de la Salud y Seguridad Ocupacional
+3 2 5	AED-1069
+Calidad Aplicada a la Gestión Empresarial
+2 3 5	 	 
+ACF-0901
+Cálculo Diferencial
+3 2 5	ACF-0902
+Cálculo Integral
+3 2 5	GEF-0921
+Probabilidad y Estadística Descriptiva
+2 3 5	GEG-0907
+Estadística Inferencial I
+3 3 6	GEG-0908
+Estadística Inferencial II
+3 3 6	AED-1072
+El Emprendedor y la Innovación
+2 3 5	GEC-0920
+Plan de Negocios
+2 3 5	 	
+Residencia Profesional
+10
+GEC-0905
+Desarrollo Humano
+2 2 4	GED-0903
+Contabilidad Orientada a los Negocios
+2 3 5	GED-0904
+Costos Empresariales
+2 3 5	GED-0917
+Instrumentos de Presupuestación Empresarial
+2 3 5	GEF-0915
+Ingeniería de Procesos
+3 2 5	GEC-0911
+Gestión de la Producción I
+2 2 4	GEC-0912
+Gestión de la Producción II
+2 2 4	GEF-0902
+Cadena de Suministros
+3 2 5
+AEF-1074
+Fundamentos de Gestión Empresarial
+3 2 5	AEC-1014
+Dinámica Social
+2 2 4	GEC-0913
+Habilidades Directivas I
+2 2 4	GEC-0914
+Habilidades Directivas II
+2 2 4	AEG-1075
+Gestión del Capital Humano
+3 3 6	AED-1015
+Diseño Organizacional
+2 3 5	AED-1035
+Gestión Estratégica
+2 3 5	 	
+Especialidad
+30
+GEC-0909
+Fundamentos de Física
+2 2 4	ACA-0907
+Taller de Ética
+0 4 4	AEF-1071
+Economía Empresarial
+3 2 5	GEF-0906
+Entorno Macroeconómico
+3 2 5	ACA-0909
+Taller de Investigación I
+0 4 4	ACA-0910
+Taller de Investigación II
+0 4 4	ACD-0908
+Desarrollo Sustentable
+2 3 5	 
+GEF-0910
+Fundamentos de Química
+3 2 5	GEE-0918
+Legislación Laboral
+3 1 4	ACF-0903
+Álgebra Lineal
+3 2 5	AEF-1076
+Investigación de Operaciones
+3 2 5	GEF-0919
+Mercadotecnia
+3 2 5	GED-0922
+Sistemas de Información de Mercadotecnia
+2 3 5	AEB-1045
+Mercadotecnia Electrónica
+1 4 5	 	 
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 
+27	27	28	30	31	28	29	5	30
+Asignaturas de la especialidad en Gestión de Negocios
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	GDM-2301	Comunicación Asertiva en la Era Digital	2	4	6	 
+2	GDM-2302	Liderazgo Digital	2	4	6	 
+3	GDM-2303	Mercadotecnia Interacional	2	4	6	 
+4	GDM-2304	Proceso de Acreditación y Certificación	2	4	6	 
+5	GDM-2305	Proyectos de Exportación	2	4	6	 
+Total:	30	 
+
+
+Ingeniería en Sistemas Computacionales
+ISIC-2010-224
+
+Especialidad en Desarrollo Full Stack
+
+Objetivo de la carrera
+Formar profesionistas de manera integral con capacidad analítica, crítica y de liderazgo que aporten soluciones computacionales a las organizaciones, aplicando las tecnologías de información y de las comunicaciones, comprometidos con su entorno.
+
+Objetivos Educacionales
+El egresado dirige proyectos de TI dentro de la organización.
+El egresado propone soluciones a las organizaciones con visión estratégica.
+El egresado tiene la capacidad para diseñar, desarrollar, implementar y/o administrar soluciones computacionales.
+El egresado propone soluciones innovadoras para optimizar los procesos que se llevan a cabo en la organización.
+El egresado identifica áreas de oportunidad que permitan emprender a las organizaciones proyectos sustentables relacionados con las tecnologías de la información y comunicaciones.
+El egresado promueve su capacitación constante para la aplicación del conocimiento adquirido en el ámbito laboral.
+English
+
+Educational Goals
+
+The graduate will be able to manage IT Projects inside the organization.
+The graduate will be able to propose solutions to organizations with a strategic vision.
+The graduate will have the ability to design, develop, implement and manage computational solutions.
+The graduate will be able to propose innovative solutions to optimize the processes inside the organization.
+The graduate will be able to identify opportunity areas that allow organizations to undertake sustainable IT projects.
+The graduate promotes his constant training for the application of the knowledge acquired in the workplace.
+Perfil de ingreso
+Criterio y razonamiento lógico para la solución de problemas.
+Habilidad y/o gusto por la investigación, análisis y síntesis de información.
+Expresión oral y escrita.
+Actitudes de: respeto, responsabilidad, honestidad.
+Habilidad y/o gusto por las ciencias básicas y el desarrollo de las tecnologías de la información.
+Perfil de egreso
+Implementa aplicaciones computacionales para solucionar problemas de diversos contextos, integrando diferentes tecnologías, plataformas o dispositivos.
+Diseña, desarrolla y aplica modelos computacionales para solucionar problemas, mediante la selección y uso de herramientas matemáticas.
+Diseña e implementa interfaces para la automatización de sistemas de hardware y desarrollo del software asociado.
+Coordina y participa en equipos multidisciplinarios para la aplicación de soluciones innovadoras en diferentes contextos.
+Diseña, implementa y administra bases de datos optimizando los recursos disponibles, conforme a las normas vigentes de manejo y seguridad de la información.
+Desarrolla y administra software para apoyar la productividad y competitividad de las organizaciones cumpliendo con estándares de calidad.
+Evalúa tecnologías de hardware para soportar aplicaciones de manera efectiva.
+Detecta áreas de oportunidad empleando una visión empresarial para crear proyectos aplicando las Tecnologías de la Información y Comunicación.
+Diseña, configura y administra redes de computadoras para crear soluciones de conectividad en la organización, aplicando las normas y estándares vigentes.
+Atributos de egreso
+Atributos de egreso (CACEI MR 2018)
+
+El egresado diseñará, desarrollará y/o aplicará modelos computacionales en la solución de problemas aplicando los principios de las ciencias básicas e ingeniería.
+El egresado reconocerá su necesidad permanente de conocimiento adicional y tendrá la habilidad para localizar, evaluar, integrar y aplicar este conocimiento adecuadamente.
+El egresado tendrá la capacidad para comunicarse efectivamente con diferentes audiencias, apoyándose en las tecnologías de la información.
+El egresado desarrollará y administrará software para la solución de problemas diversos con el fin de impulsar de la productividad y/o competitividad de las organizaciones.
+El egresado diseñará, configurará y administrará redes de computadoras para crear soluciones de conectividad en la organización, aplicando las normas y estándares vigentes.
+El egresado diseñará, implementará y administrará bases de datos optimizando los recursos disponibles, conforme a las normas vigentes de manejo y seguridad de la información.
+El egresado diseñará e implementará interfaces para la automatización de sistemas de hardware y desarrollo del software asociado.
+El egresado coordinará y participará en equipos multidisciplinarios para la aplicación de soluciones innovadoras en diferentes contextos.
+El egresado detectará áreas de oportunidad empleando una visión empresarial para crear proyectos aplicando las Tecnologías de la Información y Comunicación.
+Atributos de egreso (CACEI MR 2025)
+
+Diseña soluciones a problemas complejos de ingeniería mediante la aplicación integrada de matemáticas, ciencias naturales, informática, fundamentos de la ingeniería y los conocimientos avanzados de su especialidad.
+Evalúa problemas complejos de ingeniería mediante la investigación bibliográfica y el rigor de las ciencias de la ingeniería, incorporando consideraciones holísticas para el desarrollo sostenible que sustenten sus conclusiones.
+Diseña soluciones creativas e integrales a problemas complejos de ingeniería que abarquen sistemas, componentes o procesos, para satisfacer necesidades específicas bajo criterios de salud pública, seguridad, costo del ciclo de vida, carbono neto cero y factores socioculturales y ambientales.
+Investiga problemas complejos de ingeniería mediante métodos de investigación que integran el conocimiento basado en la investigación, el diseño de experimentos, el análisis e interpretación de datos, y la síntesis de información para emitir conclusiones válidas.
+Crea y aplica tecnologías avanzadas y herramientas modernas de ingeniería o TI incluyendo modelos y sistemas de predicción, para resolver problemas complejos, reconociendo sus limitaciones y seleccionando los recursos adecuados.
+Analiza y evalúa el impacto del desarrollo sostenible al resolver problemas complejos de ingeniería, considerando de forma integral sus efectos sociales, económicos, ambientales, legales, y de salud y seguridad.
+Ejerce la profesión con responsabilidad ética y apego legal a nivel nacional e internacional, cumpliendo con las normas de la ingeniería y promoviendo de forma activa la diversidad y la inclusión.
+Colabora con eficacia en equipos diversos, inclusivos y multidisciplinarios, ejerciendo roles de miembro o líder en diferentes entornos presenciales, remotos o distribuidos.
+Se comunica con claridad e inclusión ante la comunidad técnica y la sociedad en actividades complejas de ingeniería a través de informes, documentación de diseño y presentaciones, adaptando su mensaje a la diversidad cultural, lingüística y de aprendizaje.
+Administra proyectos de ingeniería en entornos multidisciplinarios, aplicando principios de gestión técnica y toma de decisiones económicas, tanto en el trabajo individual como en roles de miembro o líder de equipo.
+Reconoce la necesidad de actualizarse y demuestra autonomía para el aprendizaje continuo a lo largo de la vida, aplicando el pensamiento crítico ante las tecnologías nuevas y emergentes en un entorno de constante cambio tecnológico.
+Campo de acción
+En instituciones como: dependencias del sector público y privado. Organismos descentralizados y empresas independientes.
+
+Misión
+Formar Ingenieros de calidad en el área de Sistemas Computacionales que solucionen problemas reales de manera óptima en beneficio de la sociedad, aplicando las tecnologías de las ciencias computacionales.
+
+Visión
+Tener un programa educativo pertinente y de excelencia; líder en la formación de Ingenieros en Sistemas Computacionales, que den soluciones a las necesidades que demandan los grupos de interés en un marco regional, nacional e internacional y comprometidos con el desarrollo sustentable.
+
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	ACF-0901	Cálculo Diferencial	3	2	5	1	206.5 KB
+2	SCD-1011	Fundamentos de Programación	3	2	5	1	172.0 KB
+3	ACA-IS10	Taller de Ética	0	4	4	1	180.6 KB
+4	AEF-1041	Matemáticas Discretas	3	2	5	1	182.4 KB
+5	SCH-1024	Taller de Administración	1	3	4	1	170.6 KB
+6	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+7	ACF-0902	Cálculo Integral	3	2	5	2	166.4 KB
+8	AED-1286	Programación Orientada a Objetos	2	3	5	2	177.6 KB
+9	AEC-1008	Contabilidad Financiera	2	2	4	2	156.7 KB
+10	AEC-1058	Química	2	2	4	2	187.1 KB
+11	ACF-0903	Álgebra Lineal	3	2	5	2	199.7 KB
+12	AEF-1052	Probabilidad y Estadística	3	2	5	2	181.2 KB
+13	ACF-0904	Cálculo Vectorial	3	2	5	3	188.6 KB
+14	AED-1026	Estructura de Datos	2	3	5	3	170.0 KB
+15	SCC-1005	Cultura Empresarial	2	2	4	3	188.2 KB
+16	SCC-1013	Investigación de Operaciones	2	2	4	3	177.1 KB
+17	AEC-1061	Sistemas Operativos	2	2	4	5	166.9 KB
+18	SCF-1006	Física General	3	2	5	3	198.1 KB
+19	ACF-0905	Ecuaciones Diferenciales	3	2	5	4	175.7 KB
+20	SCC-1017	Métodos Numéricos	2	2	4	4	171.8 KB
+21	SCD-1027	Tópicos Avanzados de Programación	2	3	5	4	174.6 KB
+22	AEF-1031	Fundamentos de Base de Datos	3	2	5	4	171.3 KB
+23	SCA-1026	Taller de Sistemas Operativos	0	4	4	6	175.4 KB
+24	SCD-1018	Principios Eléctricos y Aplicaciones Digitales	2	3	5	4	171.0 KB
+25	ACD-0908	Desarrollo Sustentable	2	3	5	3	187.2 KB
+26	AEC-1034	Fundamentos de Telecomunicaciones	2	2	4	5	168.7 KB
+27	SCA-1025	Taller de Base de Datos	0	4	4	5	175.0 KB
+28	SCD-1022	Simulación	2	3	5	4	179.8 KB
+29	SCC-1007	Fundamentos de Ingeniería de Software	2	2	4	5	180.5 KB
+30	SCD-1003	Arquitectura de Computadoras	2	3	5	5	170.2 KB
+31	SCD-1015	Lenguajes y Autómatas I	2	3	5	6	178.4 KB
+32	SCD-1021	Redes de Computadoras	2	3	5	6	170.2 KB
+33	SCB-1001	Administración de Base de Datos	1	4	5	6	175.4 KB
+34	SCC-1010	Graficación	2	2	4	5	186.0 KB
+35	SCD-1012	Ingeniería de Software	2	3	5	6	170.0 KB
+36	SCC-1014	Lenguajes de Interfaz	2	2	4	6	169.0 KB
+37	SCD-1016	Lenguajes y Autómatas II	2	3	5	7	172.9 KB
+38	SCD-1004	Conmutación y Enrutamiento en Redes de Datos	2	3	5	7	169.2 KB
+39	ACA-0909	Taller de Investigación I	0	4	4	7	180.0 KB
+40	SCC-1023	Sistemas Programables	2	2	4	7	175.0 KB
+41	SCC-1019	Programación Lógica y Funcional	2	2	4	8	171.0 KB
+42	SCA-1002	Administración de Redes	0	4	4	8	170.3 KB
+43	ACA-0910	Taller de Investigación II	0	4	4	8	176.2 KB
+44	AEB-1055	Programación Web	1	4	5	6	169.0 KB
+45	SCG-1009	Gestión de Proyectos de Software	3	3	6	8	173.1 KB
+46	SCC-1012	Inteligencia Artificial	2	2	4	9	173.3 KB
+47		Especialidad			25		 
+48		Residencia Profesional			10	9	 
+49		Servicio Social			10	7	 
+50		Actividades Complementarias			5	1	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+ACF-0901
+Cálculo Diferencial
+3 2 5	ACF-0902
+Cálculo Integral
+3 2 5	ACF-0904
+Cálculo Vectorial
+3 2 5	ACF-0905
+Ecuaciones Diferenciales
+3 2 5	SCC-1010
+Graficación
+2 2 4	SCD-1015
+Lenguajes y Autómatas I
+2 3 5	SCD-1016
+Lenguajes y Autómatas II
+2 3 5	SCC-1019
+Programación Lógica y Funcional
+2 2 4	SCC-1012
+Inteligencia Artificial
+2 2 4
+SCD-1011
+Fundamentos de Programación
+3 2 5	AED-1286
+Programación Orientada a Objetos
+2 3 5	AED-1026
+Estructura de Datos
+2 3 5	SCC-1017
+Métodos Numéricos
+2 2 4	AEC-1034
+Fundamentos de Telecomunicaciones
+2 2 4	SCD-1021
+Redes de Computadoras
+2 3 5	SCD-1004
+Conmutación y Enrutamiento en Redes de Datos
+2 3 5	SCA-1002
+Administración de Redes
+0 4 4	
+Residencia Profesional
+10
+ACA-IS10
+Taller de Ética
+0 4 4	AEC-1008
+Contabilidad Financiera
+2 2 4	SCC-1005
+Cultura Empresarial
+2 2 4	SCD-1027
+Tópicos Avanzados de Programación
+2 3 5	AEC-1061
+Sistemas Operativos
+2 2 4	SCA-1026
+Taller de Sistemas Operativos
+0 4 4	ACA-0909
+Taller de Investigación I
+0 4 4	ACA-0910
+Taller de Investigación II
+0 4 4	DFD-2605
+Desarrollo de Proyectos Full Stack
+2 3 5
+AEF-1041
+Matemáticas Discretas
+3 2 5	AEC-1058
+Química
+2 2 4	SCC-1013
+Investigación de Operaciones
+2 2 4	AEF-1031
+Fundamentos de Base de Datos
+3 2 5	SCA-1025
+Taller de Base de Datos
+0 4 4	SCB-1001
+Administración de Base de Datos
+1 4 5	DFD-2601
+Habilidades directivas y pensamiento transformador
+2 3 5	SCG-1009
+Gestión de Proyectos de Software
+3 3 6	 
+SCH-1024
+Taller de Administración
+1 3 4	ACF-0903
+Álgebra Lineal
+3 2 5	ACD-0908
+Desarrollo Sustentable
+2 3 5	SCD-1022
+Simulación
+2 3 5	SCC-1007
+Fundamentos de Ingeniería de Software
+2 2 4	SCD-1012
+Ingeniería de Software
+2 3 5	DFD-2602
+Laboratorio de Bases de Datos NoSQL
+2 3 5	DFD-2604
+Taller de Full Stack
+2 3 5	 
+ACC-0906
+Fundamentos de Investigación
+2 2 4	AEF-1052
+Probabilidad y Estadística
+3 2 5	SCF-1006
+Física General
+3 2 5	SCD-1018
+Principios Eléctricos y Aplicaciones Digitales
+2 3 5	SCD-1003
+Arquitectura de Computadoras
+2 3 5	SCC-1014
+Lenguajes de Interfaz
+2 2 4	SCC-1023
+Sistemas Programables
+2 2 4	DFD-2603
+Laboratorio de Servicios Web
+2 3 5	 
+
+Actividades Complementarias
+5	AEB-1055
+Programación Web
+1 4 5	
+Servicio Social
+10	 
+27	28	28	29	25	33	28	28	9
+Asignaturas de la especialidad en Desarrollo Full Stack
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	DFD-2601	Habilidades directivas y pensamiento transformador	2	3	5	331.3 KB
+2	DFD-2602	Laboratorio de Bases de Datos NoSQL	2	3	5	483.8 KB
+3	DFD-2603	Laboratorio de Servicios Web	2	3	5	343.2 KB
+4	DFD-2604	Taller de Full Stack	2	3	5	518.8 KB
+5	DFD-2605	Desarrollo de Proyectos Full Stack	2	3	5	403.7 KB
+Total:	25	 
+Planta académica
+ 	Puesto	Nombre
+ 	Jefa de Departamento	PARRA URIAS MARTHA ANGELICA
+ 	Coordinadora de Carrera	MERCADO JIMENEZ ADRIANA NOEMI
+ 	Docente y Jefe del Lab. de Fisicoquímica	OLIVARES VARGAS GERARDO
+ 	Docente	AGUIRRE GONZALEZ ZOILA RAQUEL
+ 	Docente	ALVARADO MARES SONIA
+ 	Docente	ARCADIA PEÑA JUAN RAUL
+ 	Docente	ARJONA VIZCAÍNO ISRAEL
+ 	Docente	ARTEA GANDARA NAYELY
+ 	Docente	BAÑUELOS MERCADO MIGUEL
+ 	Docente	BARRIENTOS LUJAN ROCIO GABRIELA
+ 	Docente	CABRAL VELAZQUEZ KARLA CRISTINA
+ 	Docente	CASTAÑEDA MONTAÑO ESTEBAN ALEJANDRO
+ 	Docente	CASTILLO VALTIERRA SERGIO BENIGNO
+ 	Docente	CEBALLOS MEJIA JOSE DE JESUS
+ 	Docente	CHAVEZ ARCEGA MARCO ANTONIO
+ 	Docente	CONTRERAS ESPERICUETA MARCELINO
+ 	Docente	DEL ANGEL CRUZ ARTURO
+ 	Docente	DELGADO SAN ROMAN NEIDY
+ 	Docente	ESPINOSA MEZA SALVADOR
+ 	Docente	FLORES LOPEZ LUIS EDUARDO
+ 	Docente	FLORES ROBLES JUAN
+ 	Docente	GONZALEZ GONZALEZ MAXIMINO
+ 	Docente	GUTIERREZ VARGAS HUGO CESAR
+ 	Docente	HUERTA HIJAR OCTAVIO EPIGMENIO
+ 	Docente	IBARRA CARLOS FRANCISCO
+ 	Docente	MARTINEZ GONZALEZ MIGUEL ANGEL
+ 	Docente	MONTES CACERES JORGE SAUL
+ 	Docente	PADILLA VALERA EFRAIN
+ 	Docente	PARRA URIAS MA. ELENA
+ 	Docente	QUEZADA LÓPEZ CLAUDIA GUADALUPE
+ 	Docente	RAMIREZ JAUREGUI VERONICA
+ 	Docente	RAMIREZ LLAMAS MARIZA
+ 	Docente	RODRIGUEZ BRISEÑO GUILLERMO
+ 	Docente	SOTO CASTRO LUIS OBED
+ 	Docente	TAPIA GARCIA SHEYLA JANETT
+ 	Docente	TREVIÑO MONTEMAYOR OLIVIA GUADALUPE
+ 	Docente	ZAMARRIPA PARRA MYRNA SELENE
+ 
+Ingeniería Industrial
+IIND-2010-227
+
+Especialidad en Manufactura, Calidad e Innovación
+
+Objetivo de la carrera
+Formar profesionales que contribuyan al desarrollo sustentable, con una visión sistémica, que respondan a los retos que presentan los constantes cambios en los sistemas de producción de bienes y servicios en el entorno global, con ética, valores y comprometidos con el desarrollo de la sociedad.
+
+Objetivos Educacionales
+Los egresados se desarrollan en una de las áreas de ingeniería industrial, involucrándose en la administración, mejora y optimización de sistemas de producción de bienes y servicios.
+Los egresados serán capaces de tomar decisiones para el uso eficiente de los recursos en la producción de bienes y servicios.
+Los egresados serán emprendedores creando su empresa.
+Los egresados serán capaces de diseñar y/o implementar y/o administrar, sistemas integrales de gestión en su práctica profesional.
+Los egresados desarrollan competencias que les permiten incursionar, en estudios de posgrado, en áreas de la ingeniería industrial.
+Los egresados se actualizan profesionalmente para la mejora de su desempeño laboral.
+Perfil de ingreso
+El aspirante a estudiar Ingeniería Industrial es deseable que deba poseer una formación sólida en el área de las ciencias Físico – Matemático en su bachillerato, que tenga capacidad de análisis y síntesis a través de la comprensión de textos, técnicas de lectura y redacción, bases de un segundo idioma. Para lograr una formación profesional exitosa, el aspirante debe caracterizarse por reunir los conocimientos, habilidades y aptitudes necesarias como requisitos que exige el plan de estudios.
+
+Habilidades:
+Pensamiento lógico
+Creatividad e ingenio
+Solución de problemas
+Trabajo en equipo
+Liderazgo
+Actitudes:
+Responsabilidad
+Disciplina
+Interés en el estudio
+Estabilidad emocional
+Constancia
+Perfil de egreso
+Diseña, implementa, administra y mejora sistemas integrados de abastecimiento, producción y distribución de organizaciones productivas de bienes y servicios, de forma sustentable y considerando las normas nacionales e internacionales.
+Conoce la estructura y funcionamiento básico para operar la maquinara, herramientas, equipos e instrumentos de medición y control convencionales y de vanguardia.
+Participa en proyectos de transferencia, asimilación, desarrollo y adaptación de tecnologías. Integra, dirige y mantiene equipos de trabajo inter y multidisciplinarios en ambientes cambiantes y multiculturales.
+Atributos de Egreso
+El egresado es competente para sintetizar información con el fin de dialogar con respeto frente a diferentes audiencias, apoyándose en las tecnologías de la información.
+El egresado es competente para responder a sus necesidades de formación continua, personales y colectivas, en habilidades sociales y/o dentro de su área disciplinar profesional para la mejora del desempeño.
+El egresado es competente para formular, evaluar, gestionar y emprender propuestas de ideas innovadoras en productos, procesos y servicios con responsabilidad social y conciencia ambiental.
+El egresado es competente para asesorar en un modelo de cambio a la organización, con ética profesional, a través del diseño, implementación, operación y evaluación de los sistemas integrados de gestión.
+El egresado es competente para liderar equipos de trabajo a través de la cooperación e intercambio multidisciplinario, con inclusión y equidad, para el análisis y diseño de procesos productivos y de servicios.
+El egresado es competente para diseñar, implementar, operar y evaluar sistemas de gestión integrados para el suministro y distribución de la producción de bienes y servicios.
+Misión
+Incidimos en el medio socioeconómico a través de la formación académica de profesionales innovadores, creativos y emprendedores, comprometidos con su entorno y con apego a los valores institucionales.
+
+Visión
+Formar profesionales competitivos, generadores de cambio que fortalezcan el desarrollo económico y social de su entorno con perspectiva de sustentabilidad.
+
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+2	INC-1009	Electricidad y Electrónica Industrial	2	2	4	2	177.3 KB
+3	ACA-0907	Taller de Ética	0	4	4	1	180.6 KB
+4	ACF-0901	Cálculo Diferencial	3	2	5	1	206.5 KB
+5	INH-1029	Taller de Herramientas Intelectuales	1	3	4	1	182.8 KB
+6	INC-1025	Química	2	2	4	1	177.6 KB
+7	INN-1008	Dibujo Industrial	0	6	6	1	181.8 KB
+8	INC-1024	Propiedad de los Materiales	2	2	4	2	167.3 KB
+9	ACF-0902	Cálculo Integral	3	2	5	2	166.4 KB
+10	INR-1017	Ingeniería de Sistemas	2	1	3	7	180.7 KB
+11	INQ-1006	Análisis de la Realidad Nacional	1	2	3	2	173.9 KB
+12	AEC-1053	Probabilidad y Estadistica	2	2	4	2	176.2 KB
+13	INC-1030	Taller de Liderazgo	2	2	4	2	177.4 KB
+14	AEC-1048	Metrología y Normalización	2	2	4	3	166.0 KB
+15	ACF-0903	Álgebra Lineal	3	2	5	3	199.7 KB
+16	ACF-0904	Cálculo Vectorial	3	2	5	3	188.6 KB
+17	AEC-1018	Economía	2	2	4	3	171.6 KB
+18	AEF-1024	Estadística Inferencial I	3	2	5	3	172.6 KB
+19	INJ-1011	Estudio del Trabajo I	4	2	6	3	166.6 KB
+20	INC-1023	Procesos de Fabricación	2	2	4	4	176.1 KB
+21	INC-1013	Física	2	2	4	4	166.3 KB
+22	INC-1005	Algoritmos y Lenguajes de Programación	2	2	4	4	180.5 KB
+23	INC-1018	Investigación de Operaciones I	2	2	4	4	179.1 KB
+24	AEF-1025	Estadistica Inferencial II	3	2	5	4	186.5 KB
+25	INJ-1012	Estudio del Trabajo II	4	2	6	4	165.3 KB
+26	INF-1016	Higiene y Seguridad Industrial	3	2	5	4	164.6 KB
+27	INR-1003	Administración de Proyectos	2	1	3	5	169.0 KB
+28	AEC-1392	Gestión de Costos	2	2	4	5	160.1 KB
+29	INC-1001	Administración de las Operaciones I	2	2	4	5	178.6 KB
+30	INC-1019	Investigación de Operaciones II	2	2	4	5	171.2 KB
+31	INF-1007	Control Estadístico de la Calidad	3	2	5	5	224.7 KB
+32	INF-1010	Ergonomía	3	2	5	5	164.9 KB
+33	ACD-0908	Desarrollo Sustentable	2	3	5	5	187.2 KB
+34	ACA-0909	Taller de Investigación I	0	4	4	6	180.0 KB
+35	AEC-1037	Ingeniería Económica	2	2	4	6	169.6 KB
+36	INC-1002	Administración de las Operaciones II	2	2	4	6	176.2 KB
+37	INC-1027	Simulación	2	2	4	6	203.6 KB
+38	INC-1004	Administración del Mantenimiento	2	2	4	6	173.5 KB
+39	AED-1044	Mercadotecnia	2	3	5	6	184.7 KB
+40	ACA-0910	Taller de Investigación II	0	4	4	7	176.2 KB
+41	INC-1021	Planeación Financiera	2	2	4	7	187.8 KB
+42	INC-1022	Planeación y Diseño de Instalaciones	2	2	4	7	168.5 KB
+43	INF-1028	Sistemas de Manufactura	3	2	5	7	163.2 KB
+44	INH-1020	Logística y Cadenas de Suministro	1	3	4	7	182.8 KB
+45	INC-1015	Gestión de los Sistemas de Calidad	2	2	4	7	176.9 KB
+46	AED-1030	Formulación y Evaluación de Proyectos	2	3	5	8	170.6 KB
+47	INC-1026	Relaciones Industriales	2	2	4	8	188.3 KB
+48		Especialidad			31	9	 
+49		Residencia Profesional			10	9	 
+50		Servicio Social			10	7	 
+51		Actividades Complementarias			5	1	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+ACC-0906
+Fundamentos de Investigación
+2 2 4	INC-1009
+Electricidad y Electrónica Industrial
+2 2 4	AEC-1048
+Metrología y Normalización
+2 2 4	INC-1023
+Procesos de Fabricación
+2 2 4	INR-1003
+Administración de Proyectos
+2 1 3	ACA-0909
+Taller de Investigación I
+0 4 4	ACA-0910
+Taller de Investigación II
+0 4 4	AED-1030
+Formulación y Evaluación de Proyectos
+2 3 5	 
+ACA-0907
+Taller de Ética
+0 4 4	INC-1024
+Propiedad de los Materiales
+2 2 4	ACF-0903
+Álgebra Lineal
+3 2 5	INC-1013
+Física
+2 2 4	AEC-1392
+Gestión de Costos
+2 2 4	AEC-1037
+Ingeniería Económica
+2 2 4	INC-1021
+Planeación Financiera
+2 2 4	INC-1026
+Relaciones Industriales
+2 2 4	
+Residencia Profesional
+10
+ACF-0901
+Cálculo Diferencial
+3 2 5	ACF-0902
+Cálculo Integral
+3 2 5	ACF-0904
+Cálculo Vectorial
+3 2 5	INC-1005
+Algoritmos y Lenguajes de Programación
+2 2 4	INC-1001
+Administración de las Operaciones I
+2 2 4	INC-1002
+Administración de las Operaciones II
+2 2 4	INC-1022
+Planeación y Diseño de Instalaciones
+2 2 4	 
+INH-1029
+Taller de Herramientas Intelectuales
+1 3 4	AEC-1053
+Probabilidad y Estadistica
+2 2 4	AEC-1018
+Economía
+2 2 4	INC-1018
+Investigación de Operaciones I
+2 2 4	INC-1019
+Investigación de Operaciones II
+2 2 4	INC-1027
+Simulación
+2 2 4	INF-1028
+Sistemas de Manufactura
+3 2 5	 	
+Especialidad
+31
+INC-1025
+Química
+2 2 4	INQ-1006
+Análisis de la Realidad Nacional
+1 2 3	AEF-1024
+Estadística Inferencial I
+3 2 5	AEF-1025
+Estadistica Inferencial II
+3 2 5	INF-1007
+Control Estadístico de la Calidad
+3 2 5	INC-1004
+Administración del Mantenimiento
+2 2 4	INH-1020
+Logística y Cadenas de Suministro
+1 3 4	 
+INN-1008
+Dibujo Industrial
+0 6 6	INC-1030
+Taller de Liderazgo
+2 2 4	INJ-1011
+Estudio del Trabajo I
+4 2 6	INJ-1012
+Estudio del Trabajo II
+4 2 6	INF-1010
+Ergonomía
+3 2 5	AED-1044
+Mercadotecnia
+2 3 5	INC-1015
+Gestión de los Sistemas de Calidad
+2 2 4	 	 
+ 	 	 	INF-1016
+Higiene y Seguridad Industrial
+3 2 5	ACD-0908
+Desarrollo Sustentable
+2 3 5	 	INR-1017
+Ingeniería de Sistemas
+2 1 3	 	 
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 
+27	24	29	32	30	25	28	9	31
+Asignaturas de la especialidad en Manufactura, Calidad e Innovación
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	MCI-2405	Ingeniería de Producto			7	264.0 KB
+2	MCM-2401	Ingeniería de Calidad Aplicada			6	327.3 KB
+3	MCM-2402	Gestión de la Innovación y el Emprendedurismo			6	221.9 KB
+4	MCM-2403	Sistemas de Manufactura Avanzada			6	306.0 KB
+5	MCM-2404	Sistemas para la Productividad Empresarial			6	261.1 KB
+Total:	31	 
+Planta académica
+ 	Puesto	Nombre
+ 	Jefa de Departamento	CASILLAS CASTAÑEDA LAURA ELENA
+ 	Coordinadora de Carrera	SILVA JUG MYRNA CATALINA
+ 	Docente	ABREGO AMARO RUTH JANETH
+ 	Docente	AGUILLON RUIZ MARIA DEL ROSARIO
+ 	Docente	CARDONA RIVERA SAUL ENRIQUE
+ 	Docente	CASILLAS CASTAÑEDA CINTIA KARINA
+ 	Docente	CASTAÑEDA INDA NOEMI ELIZABETH
+ 	Docente	ESTRADA SOTO GONZALO LEOBARDO
+ 	Docente	ESTRADA SOTO MARTHA ELODIA
+ 	Docente	GAMEZ RODRIGUEZ JOSE ANGEL
+ 	Docente	GONZALEZ ROSALES RODOLFO
+ 	Docente	GUERRERO MEDINA MANUEL
+ 	Docente	HERNANDEZ NIEVES LUZ DENICE
+ 	Docente	IBARRA NAVARRO JOEL GREGORIO
+ 	Docente	MARMOLEJO MURILLO EDITH
+ 	Docente	MATA PRADO VICTOR MANUEL
+ 	Docente	MEDINA DIAZ GRISELDA
+ 	Docente	MONTOYA DEL REAL IRMA
+ 	Docente	PARRA URIAS MARCO ANTONIO
+ 	Docente	PERAZA TREVIÑO LUCIA GUADALUPE
+ 	Docente	RAMIREZ AGUILAR IRMA
+ 	Docente	RUBIO LOPEZ RAUL
+ 	Docente	VILLANUEVA MARCIAL YADIRA MIRIAM
+
+Ingeniería Mecatrónica
+IMCT-2010-229
+
+Especialidad en Sistemas de Control y Manufactura
+
+Especialidad en Semiconductores y Sistemas Inteligentes
+
+Objetivo de la carrera
+Formar profesionistas de la ingeniería con una base científica, tecnológica y humanística capaces de desarrollar, mantener e innovar sistemas, procesos y productos industriales y de servicios con un enfoque mecatrónico, observando un sentido de responsabilidad de su entorno sociocultural y ecológico.
+
+Perfil de egreso
+Observar las normas y disposiciones relacionadas con el ejercicio de su profesión.
+Participar en la generación y realización de proyectos de investigación o desarrollo tecnológico para la innovación de servicios, procesos y productos mecatrónicos.
+Identificar áreas de oportunidad para analizar y comprender problemas de ingeniería, proponiendo soluciones con tecnologías actuales y de vanguardia, propiciando un desarrollo sustentable.
+Tener la capacidad de coordinar y trabajar en equipos multidisciplinarios.
+Manejar herramientas actuales y de vanguardia para la solución de problemas en la ingeniería.
+Administrar y asegurar la calidad, eficiencia, productividad y rentabilidad de los sistemas, procesos y productos.
+Controlar, automatizar, operar, supervisar, evaluar y mantener procesos de ingeniería desde una perspectiva mecatrónica.
+Proyectar, diseñar, simular y construir sistemas mecatrónicos.
+Ser creativo, emprendedor y comprometido en el ejercicio de su formación con amplio sentido ético y de actualización continua.
+Elaborar, interpretar y comunicar, de manera profesional, en forma oral, escrita y gráfica: reportes, propuestas y resultados de ingeniería.
+Tener la habilidad de comunicarse en su ámbito profesional al menos en un idioma extranjero.
+Participar en la transferencia, adaptación y asimilación de tecnología en ingeniería mecatrónica.
+Especialidad y Residencia
+Las materias de la especialidad se ofrecen según las necesidades o giro que tome la industria estatal y regional.
+
+La residencia profesional es un requisito reticular así como la estrategia que integra al estudiante a los sectores sociales y productivos, mediante un proyecto de trabajo profesional cuyo objetivo fundamental será la aplicación de los conocimientos adquiridos a situaciones reales. Tendrá una duración de 4 a 6 meses debiendo acumular un total de 640 horas, una vez aprobado el 75% de créditos.
+
+Servicio Social
+El servicio
+
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	AEC-1058	Química	2	2	4	1	187.1 KB
+2	ACF-0901	Cálculo Diferencial	3	2	5	1	206.5 KB
+3	ACA-0907	Taller de Ética	0	4	4	1	180.6 KB
+4	AEA-1013	Dibujo Asistido por Computadora	0	4	4	1	177.7 KB
+5	AEC-1047	Metrología y Normalización	2	2	4	1	171.4 KB
+6	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+7	ACF-0902	Cálculo Integral	3	2	5	2	166.4 KB
+8	ACF-0903	Álgebra Lineal	3	2	5	2	199.7 KB
+9	MTF-1004	Ciencia e Ingeniería de Materiales	3	2	5	3	169.9 KB
+10	MTD-1024	Programación Básica	2	3	5	2	171.6 KB
+11	MTC-1014	Estadística y Control de Calidad	2	2	4	2	162.4 KB
+12	MTC-1001	Administración y Contabilidad	2	2	4	2	162.1 KB
+13	ACF-0904	Cálculo Vectorial	3	2	5	3	188.6 KB
+14	MTC-1022	Procesos de Fabricación	2	2	4	3	166.5 KB
+15	AEF-1020	Electromagnetismo	3	2	5	3	184.3 KB
+16	MTC-1015	Estática	2	2	4	3	182.5 KB
+17	AEC-1046	Métodos Numéricos	2	2	4	3	171.5 KB
+18	ACD-0908	Desarrollo Sustentable	2	3	5	3	187.2 KB
+19	ACF-0905	Ecuaciones Diferenciales	3	2	5	4	175.7 KB
+20	MTC-1017	Fundamentos de Termodinámica	2	2	4	4	170.3 KB
+21	MTJ-1020	Mecánica de Materiales	4	2	6	4	168.2 KB
+22	MTC-1008	Dinámica	2	2	4	4	179.6 KB
+23	MTJ-1002	Análisis de Circuitos Eléctricos	4	2	6	4	172.1 KB
+24	AEF-1040	Máquinas Eléctricas	3	2	5	5	181.5 KB
+25	MTJ-1011	Electrónica Analógica	4	2	6	5	175.2 KB
+26	AED-1043	Mecanismos	2	3	5	5	173.9 KB
+27	MTC-1003	Análisis de Fluidos	2	2	4	5	182.6 KB
+28	ACA-0909	Taller de Investigación I	0	4	4	5	180.0 KB
+29	MTJ-1012	Electrónica de Potencia Aplicada	4	2	6	6	170.2 KB
+30	AEF-1038	Instrumentación	3	2	5	6	182.6 KB
+31	MTF-1010	Diseño de Elementos Mecánicos	3	2	5	6	328.3 KB
+32	MTF-1013	Electrónica Digital	3	2	5	6	175.4 KB
+33	AED-1067	Vibraciones Mecánicas	2	3	5	6	174.3 KB
+34	ACA-0910	Taller de Investigación II	0	4	4	6	176.2 KB
+35	MTF-1009	Dinámica de Sistemas	3	2	5	7	186.1 KB
+36	MTD-1019	Manufactura Avanzada	2	3	5	7	164.8 KB
+37	MTG-1005	Circuitos Hidráulicos y Neumáticos	3	3	6	7	174.2 KB
+38	MTF-1018	Mantenimiento	3	2	5	7	167.6 KB
+39	MTF-1021	Microcontroladores	3	2	5	7	174.1 KB
+40	MTG-1023	Programación Avanzada	3	3	6	7	186.2 KB
+41	MTJ-1006	Control	4	2	6	8	179.8 KB
+42	MTO-1016	Formulación y Evaluación de Proyectos	0	3	3	8	166.2 KB
+43	MTD-1007	Controladores Lógicos Programables	2	3	5	8	172.2 KB
+44	MTF-1025	Robótica	3	2	5	9	190.2 KB
+45		Especialidad			25	9	 
+46		Residencia Profesional			10	9	 
+47		Servicio Social			10	7	 
+48		Actividades Complementarias			5	1	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+AEC-1058
+Química
+2 2 4	ACF-0902
+Cálculo Integral
+3 2 5	ACF-0904
+Cálculo Vectorial
+3 2 5	ACF-0905
+Ecuaciones Diferenciales
+3 2 5	AEF-1040
+Máquinas Eléctricas
+3 2 5	MTJ-1012
+Electrónica de Potencia Aplicada
+4 2 6	MTF-1009
+Dinámica de Sistemas
+3 2 5	MTJ-1006
+Control
+4 2 6	MTF-1025
+Robótica
+3 2 5
+ACF-0901
+Cálculo Diferencial
+3 2 5	ACF-0903
+Álgebra Lineal
+3 2 5	MTC-1022
+Procesos de Fabricación
+2 2 4	MTC-1017
+Fundamentos de Termodinámica
+2 2 4	MTJ-1011
+Electrónica Analógica
+4 2 6	AEF-1038
+Instrumentación
+3 2 5	MTD-1019
+Manufactura Avanzada
+2 3 5	MTO-1016
+Formulación y Evaluación de Proyectos
+0 3 3	
+Residencia Profesional
+10
+ACA-0907
+Taller de Ética
+0 4 4	MTF-1004
+Ciencia e Ingeniería de Materiales
+3 2 5	AEF-1020
+Electromagnetismo
+3 2 5	MTJ-1020
+Mecánica de Materiales
+4 2 6	AED-1043
+Mecanismos
+2 3 5	MTF-1010
+Diseño de Elementos Mecánicos
+3 2 5	MTG-1005
+Circuitos Hidráulicos y Neumáticos
+3 3 6	MTD-1007
+Controladores Lógicos Programables
+2 3 5
+AEA-1013
+Dibujo Asistido por Computadora
+0 4 4	MTD-1024
+Programación Básica
+2 3 5	MTC-1015
+Estática
+2 2 4	MTC-1008
+Dinámica
+2 2 4	MTC-1003
+Análisis de Fluidos
+2 2 4	MTF-1013
+Electrónica Digital
+3 2 5	MTF-1018
+Mantenimiento
+3 2 5	 	
+Especialidad
+25
+AEC-1047
+Metrología y Normalización
+2 2 4	MTC-1014
+Estadística y Control de Calidad
+2 2 4	AEC-1046
+Métodos Numéricos
+2 2 4	MTJ-1002
+Análisis de Circuitos Eléctricos
+4 2 6	ACA-0909
+Taller de Investigación I
+0 4 4	AED-1067
+Vibraciones Mecánicas
+2 3 5	MTF-1021
+Microcontroladores
+3 2 5	 
+ACC-0906
+Fundamentos de Investigación
+2 2 4	MTC-1001
+Administración y Contabilidad
+2 2 4	ACD-0908
+Desarrollo Sustentable
+2 3 5	 	 	ACA-0910
+Taller de Investigación II
+0 4 4	MTG-1023
+Programación Avanzada
+3 3 6	 	 
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 
+25	28	27	25	24	30	32	14	30
+Asignaturas de la especialidad en Sistemas de Control y Manufactura
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	SCF-2601	Mantenimiento a Sistemas Productivos	3	2	5	243.8 KB
+2	SCF-2602	Manufactura Industrial	3	2	5	207.5 KB
+3	SCF-2603	Sistemas y Equipos Biomédicos	3	2	5	256.1 KB
+4	SCF-2604	Internet Industrial de las Cosas (IIoT)	3	2	5	288.4 KB
+5	SCF-2605	Comunicaciones industriales	3	2	5	208.6 KB
+Total:	25	 
+Asignaturas de la especialidad en Semiconductores y Sistemas Inteligentes
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	SSI-2501	Circuitos Integrados en FPGA	3	2	5	224.8 KB
+2	SSI-2502	Diseño de circuitos Electrónicos	3	2	5	211.5 KB
+3	SSI-2503	Inteligencia Artificial en Sistemas Embebidos	3	2	5	200.9 KB
+4	SSI-2504	Internet Industrial de las Cosas (IIoT)	3	2	5	212.7 KB
+5	SSI-2505	Sistemas Embebidos	3	2	5	287.3 KB
+Total:	25	 
+ 
+Ingeniería Química
+IQUI-2010-232
+
+Especialidad en Ambiental
+
+Objetivo de la carrera
+Formar profesionistas en Ingeniería Química con conocimientos, habilidades, actitudes y aptitudes analíticas y creativas, de liderazgo y calidad humana, con un espíritu de superación permanente para investigar, desarrollar y aplicar el conocimiento científico y tecnológico, en el diseño, instalación, operación, optimización y administración de procesos químicos, extractivos, de transformación y de servicios, contribuyendo al bienestar social y desarrollo sustentable del país.
+
+Objetivos educacionales
+El egresado de Ingeniería Química:
+
+Labora en industrias químicas y/o empresas de servicios con base en el desarrollo tecnológico, de acuerdo a las normas ambientales, de higiene y seguridad, colaborando en equipos interdisciplinarios desempeñando las actividades relacionadas a su campo de trabajo con calidad.
+Realiza innovación y/o adaptación de tecnología en procesos aplicando la metodología cientíﬁca mediante tecnologías de la información y comunicación con respeto a la propiedad intelectual.
+Se comunica en forma oral y escrita según los requerimientos del entorno de manera expedita y concisa.
+Demuestra actitud creativa, emprendedora y de liderazgo para impulsar y crear empresas que contribuyan al progreso nacional administrando recursos humanos, materiales y ﬁnancieros para los sectores público y/o privado.
+Demuestra actitudes de superación continua para lograr metas profesionales con pertinencia y competitividad.
+Perfil de ingreso
+Criterio y razonamiento lógico para la solución de problemas.
+Habilidad y/o gusto por la investigación, análisis y síntesis de información.
+Expresión oral y escrita.
+Actitudes de: respeto, responsabilidad, honestidad.
+Habilidad y/o gusto por las ciencias naturales y el desarrollo de las tecnologías de la transformación de materias primas.
+Perfil de egreso
+El ingeniero químico es un profesional que de manera individual o integrando grupos interdisciplinarios y multidisciplinarios es apto para: diseñar, seleccionar, adaptar, operar, controlar, simular, optimizar y escalar equipos y procesos en los que se utilicen recursos de manera sostenible. Proporcionar asesoría técnica a organismos y a empresas dedicadas a la transformación de recursos.
+
+Atributos de egreso
+El egresado de Ingeniería Química tendrá la capacidad de:
+
+Identiﬁca y resuelve problemas mediante la modelación y optimización de equipos y/o procesos, aplicando conocimiento cientíﬁco y/o tecnológico, para el aprovechamiento de los recursos.
+Aplica normas y programas internacionales, nacionales y locales en entidades públicas y/o privadas relacionadas con la ingeniería Química.
+Realiza investigación cientíﬁca y tecnológica en el campo de la Ingeniería Química para contribuir al desarrollo de la sociedad.
+Coordinar equipos multidisciplinarios para formular y evaluar técnica y económicamente proyectos de Ingeniería Química, para coadyuvar al desarrollo regional, con criterios de sustentabilidad y sostenibilidad, aplicando marcos legales.
+Establecer comunicación de forma oral y escrita con múltiples audiencias; utilizando un lenguaje inclusivo en el ámbito laboral.
+Aprender y actualizarse durante su formación para fomentar a lo largo de su vida profesional la aplicación de conocimientos y/o tecnologías actuales y/o emergentes.
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	ACA-0909	Taller de Investigación I	0	4	4	66	180.0 KB
+2	ACA-0907	Taller de Ética	0	4	4	1	180.6 KB
+3	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+4	ACF-0901	Cálculo Diferencial	3	2	5	1	206.5 KB
+5	AEF-1060	Química Inorgánica	3	2	5	1	172.8 KB
+6	IQC-1018	Programación	2	2	4	1	166.4 KB
+7	AEO-1012	Dibujo asistido por computadora	0	3	3	1	161.3 KB
+8	ACF-0903	Álgebra Lineal	3	2	5	2	199.7 KB
+9	AEF-1042	Mecánica Clásica	3	2	5	2	167.5 KB
+10	ACF-0902	Cálculo Integral	3	2	5	2	166.4 KB
+11	IQF-1019	Química Orgánica I	3	2	5	2	168.7 KB
+12	IQF-1022	Salud y Seguridad en el Trabajo	3	2	5	7	190.4 KB
+13	AEG-1059	Química Analítica	3	3	6	2	166.7 KB
+14	IQF-1001	Análisis de Datos Experimentales	3	2	5	3	169.1 KB
+15	IQF-1003	Electricidad, Magnetismo y Óptica	3	2	5	3	164.1 KB
+16	ACF-0904	Cálculo Vectorial	3	2	5	3	188.6 KB
+17	IQF-1020	Química Orgánica II	3	2	5	3	181.2 KB
+18	AEF-1065	Termodinámica	3	2	5	2	167.5 KB
+19	IQF-1006	Gestión de la Calidad	3	2	5	3	168.7 KB
+20	IQH-1014	Métodos Numéricos	1	3	4	4	169.3 KB
+21	ACF-0905	Ecuaciones Diferenciales	3	2	5	4	175.7 KB
+22	IQF-1013	Mecanismos de Transferencia	3	2	5	4	172.6 KB
+23	IQF-1007	Ingeniería Ambiental	3	2	5	4	184.2 KB
+24	AEF-1004	Balance de Materia y Energía	3	2	5	3	150.1 KB
+25	AEF-1003	Análisis Instrumental	3	2	5	4	163.0 KB
+26	ACD-0908	Desarrollo Sustentable	2	3	5	5	187.2 KB
+27	IQC-1008	Ingeniería de Costos	2	2	4	5	165.6 KB
+28	IQJ-1002	Balance de Momento, Calor y Masa	4	2	6	5	174.1 KB
+29	IQF-1015	Procesos de Separación I	3	2	5	5	168.0 KB
+30	IQF-1004	Fisicoquímica I	3	2	5	4	168.0 KB
+31	IQM-1009	Ingeniería de Proyectos	2	4	6	8	168.6 KB
+32	IQF-1016	Procesos de Separación II	3	2	5	6	176.4 KB
+33	IQN-1010	Laboratorio Integral I	0	6	6	6	172.2 KB
+34	IQF-1005	Fisicoquímica II	3	2	5	5	183.6 KB
+35	ACA-0910	Taller de Investigación II	0	4	4	7	176.2 KB
+36	IQF-1017	Procesos de Separación III	3	2	5	7	166.1 KB
+37	IQF-1024	Síntesis y Optimización de Procesos	3	2	5	7	170.4 KB
+38	IQF-1021	Reactores Químicos	3	2	5	6	162.8 KB
+39	IQN-1011	Laboratorio Integral II	0	6	6	7	164.1 KB
+40	IQO-1025	Taller de Administración Gerencial	0	3	3	7	168.2 KB
+41	IQN-1012	Laboratorio Integral III	0	6	6	8	163.2 KB
+42	AEF-1039	Instrumentación y Control	3	2	5	8	170.7 KB
+43	IQD-1023	Simulación de Procesos	2	3	5	8	173.0 KB
+44		Especialidad			25	9	 
+45		Residencia Profesional			10	9	 
+46		Servicio Social			10	7	 
+47		Actividades Complementarias			5	1	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+ACA-0907
+Taller de Ética
+0 4 4	ACF-0903
+Álgebra Lineal
+3 2 5	IQF-1001
+Análisis de Datos Experimentales
+3 2 5	IQH-1014
+Métodos Numéricos
+1 3 4	ACD-0908
+Desarrollo Sustentable
+2 3 5	 	IQO-1025
+Taller de Administración Gerencial
+0 3 3	 	 
+ACC-0906
+Fundamentos de Investigación
+2 2 4	AEF-1042
+Mecánica Clásica
+3 2 5	IQF-1003
+Electricidad, Magnetismo y Óptica
+3 2 5	ACF-0905
+Ecuaciones Diferenciales
+3 2 5	IQC-1008
+Ingeniería de Costos
+2 2 4	ACA-0909
+Taller de Investigación I
+0 4 4	ACA-0910
+Taller de Investigación II
+0 4 4	 	
+Residencia Profesional
+10
+ACF-0901
+Cálculo Diferencial
+3 2 5	ACF-0902
+Cálculo Integral
+3 2 5	ACF-0904
+Cálculo Vectorial
+3 2 5	IQF-1013
+Mecanismos de Transferencia
+3 2 5	IQJ-1002
+Balance de Momento, Calor y Masa
+4 2 6	IQF-1016
+Procesos de Separación II
+3 2 5	IQF-1017
+Procesos de Separación III
+3 2 5	IQN-1012
+Laboratorio Integral III
+0 6 6
+AEF-1060
+Química Inorgánica
+3 2 5	IQF-1019
+Química Orgánica I
+3 2 5	IQF-1020
+Química Orgánica II
+3 2 5	IQF-1007
+Ingeniería Ambiental
+3 2 5	IQF-1015
+Procesos de Separación I
+3 2 5	IQN-1010
+Laboratorio Integral I
+0 6 6	IQF-1024
+Síntesis y Optimización de Procesos
+3 2 5	AEF-1039
+Instrumentación y Control
+3 2 5	
+Especialidad
+25
+IQC-1018
+Programación
+2 2 4	AEF-1065
+Termodinámica
+3 2 5	AEF-1004
+Balance de Materia y Energía
+3 2 5	IQF-1004
+Fisicoquímica I
+3 2 5	IQF-1005
+Fisicoquímica II
+3 2 5	IQF-1021
+Reactores Químicos
+3 2 5	IQF-1022
+Salud y Seguridad en el Trabajo
+3 2 5	IQM-1009
+Ingeniería de Proyectos
+2 4 6
+AEO-1012
+Dibujo asistido por computadora
+0 3 3	AEG-1059
+Química Analítica
+3 3 6	IQF-1006
+Gestión de la Calidad
+3 2 5	AEF-1003
+Análisis Instrumental
+3 2 5	 	 	IQN-1011
+Laboratorio Integral II
+0 6 6	IQD-1023
+Simulación de Procesos
+2 3 5	 
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 
+25	31	30	29	25	20	28	22	25
+Asignaturas de la especialidad en Ambiental
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	AMF-2401	Tratamiento de Aguas Residuales	3	2	5	288.4 KB
+2	AMF-2402	Control de la Contaminación Atmosférica	3	2	5	194.7 KB
+3	AMF-2403	Manejo Integral de Residuos Sólidos Peligrosos	3	2	5	192.4 KB
+4	AMF-2404	Evaluación del Impacto Ambiental	3	2	5	189.5 KB
+5	AMF-2405	Auditoría Ambiental	3	2	5	194.7 KB
+Total:	25	 
+Planta académica
+ 	Puesto	Nombre
+ 	Jefa de Departamento	BECERRA LOZA ANNEL STEFANIA
+ 	Coordinador de Carrera	RODRIGUEZ BARRON JOSE ISRAEL
+ 	Presidente de Academia	FONSECA CANTABRANA ANGEL
+ 	Sec. de Acad.	HERNANDEZ PINTADO MARCELA RAQUEL
+ 	Docente y Jefa de los Lab. de An. de Alim. y Proc. de Alim.	CASTRO MARTINEZ ROSA
+ 	Docente y Jefa del Lab. de Termodin. y Química	CORONEL SANDOVAL LIDIA
+ 	Docente y Jefe del Lab. de Fisicoquímica	GARCIA PADILLA MIGUEL
+ 	Docente y Jefa del Lab. de Microbiología	AGUILERA AGUIRRE SELENE
+ 	Docente y Jefe del Lab. de Química Analítica	BARAJAS GONZALEZ SALVADOR
+ 	Docente y Coordinadora de Tutorías	ESPINOSA LEDESMA GEORGINA MARIEN
+ 	Docente	GARCES MARTINEZ MOISÉS
+ 	Docente	HERNANDEZ CORTEZ MARIA DEL REFUGIO
+ 	Docente	JIMENEZ LOPEZ GUILLERMO IRIAN
+ 	Docente	LEDEZMA MORALES AIDE
+ 	Docente	LOYA GOMEZ FIDEL ALEJANDRO
+ 	Docente	MIRAMONTES PARRA JOSE HORACIO
+ 	Docente	RODRIGUEZ DIAZ ALBINO
+ 	Docente	SALAZAR CARRILLO EVERARDO
+ 	Docente	TORRES RAMOS MARIA ISABEL
+ 	Docente	VIRGEN LIZÁRRAGA GUILLERMO
+
+Licenciatura en Administración
+LADM-2010-234
+
+Especialidad en Desarrollo y Posicionamiento Competitivo
+
+Objetivo de la carrera
+Formar profesionales íntegros con una sólida base científica, tecnológica y humanista, comprometidos con el desarrollo sostenible, capaces de responder con responsabilidad social, equidad, ética y creatividad a los retos de su entorno, mediante la aplicación de competencias para la vida, el trabajo colaborativo, la innovación y el aprendizaje continuo.
+
+Objetivos educativos
+Formar profesionales con pensamiento crítico y compromiso ético, capaces de tomar decisiones responsables en contextos organizacionales diversos, considerando los principios de equidad, inclusión y cultura de paz.
+Desarrollar competencias científicas, tecnológicas y humanistas que permitan diseñar, implementar y evaluar estrategias administrativas innovadoras para la mejora continua y la sostenibilidad de las organizaciones.
+Fomentar el uso estratégico de las tecnologías de información y comunicación para optimizar los procesos de gestión, análisis de datos y toma de decisiones en entornos complejos y cambiantes.
+Impulsar el liderazgo colaborativo y multidisciplinario, promoviendo la innovación, el emprendimiento con responsabilidad social y la participación activa en el desarrollo económico y social de su comunidad.
+Promover una cultura de aprendizaje continuo, que permita al egresado adaptarse proactivamente a los cambios del entorno local y global, mediante la actualización permanente de sus competencias personales y profesionales.
+Contribuir a la formación de ciudadanos globales comprometidos con los Objetivos de Desarrollo Sostenible (ODS), capaces de incidir positivamente en los desafíos sociales, ambientales y económicos contemporáneos.
+Perfil de ingreso
+Los candidatos por ingresar a la Lic. en Administración del ITTepic. deben contar con:
+
+Conocimientos básicos en matemáticas, economía y ciencias sociales.
+Habilidad para el razonamiento lógico, pensamiento crítico y solución de problemas.
+Interés por temas económicos, sociales y organizacionales.
+Capacidad para trabajar en equipo y comunicarse de manera efectiva.
+Actitud proactiva, ética y responsable.
+Disposición al aprendizaje autónomo y uso de tecnologías.
+Sensibilidad hacia el desarrollo sostenible, la equidad y los derechos humanos.
+Perfil de egreso
+Diseña, implementa y evalúa estrategias administrativas para la eficiencia organizacional.
+Toma decisiones éticas y responsables con base en el análisis de datos e información relevante.
+Promueve el desarrollo sostenible, la inclusión, la equidad de género y la cultura de paz en el entorno laboral y social.
+Integra tecnologías de información para mejorar los procesos de gestión organizacional.
+Lidera equipos de trabajo multidisciplinarios, fomentando la innovación y la mejora continua.
+Emprende proyectos productivos con enfoque social y económico.
+Aplica habilidades transversales como pensamiento crítico, comunicación efectiva y adaptabilidad.
+Comprende y aplica el marco de los ODS para contribuir a un entorno global más justo y sostenible.
+Perfil profesional
+Ejerce la profesión basada en principios y valores universales en un marco ético y sensible a la diversidad cultural. Comprometido con la búsqueda del aprendizaje continuo y su desarrollo integral. Administra los recursos organizacionales creando una cultura ecológica y coadyuvando al desarrollo sustentable. Analiza e interpreta información administrativa, económica financiera, legal y social para la toma de decisiones con el propósito de diagnosticar, prevenir y resolver problemas en las organizaciones.
+
+Campo de acción
+El licenciado en administración es un profesional que puede prestar sus servicios en cualquier organización productiva de bienes y servicios, tanto en el sector privado como en el sector público. De igual forma, estará capacitado para generar y emprender proyectos empresariales propios, o para coadyuvar a la creación de nuevas organizaciones productivas cuyas iniciativas que generen en su ámbito socioeconómico.
+
+Especialidad y Residencia
+Las materias de la especialidad se ofrecen según las necesidades o giro que tome la industria estatal y regional.
+
+La residencia profesional es un requisito reticular así como la estrategia que integra al estudiante a los sectores sociales y productivos, mediante un proyecto de trabajo profesional cuyo objetivo fundamental será la aplicación de los conocimientos adquiridos a situaciones reales. Tendrá una duración de 4 a 6 meses debiendo acumular un total de 500 horas, una vez aprobado el 80% de créditos.
+
+Servicio Social
+El servicio social es un requisito que tiene como finalidad realizar un trabajo significativo para el desarrollo cumunitario, como una retribución a la sociedad. Consiste en 500 horas efectivas de trabajo en un periodo no menor de 6 meses y no mayor de 2 años una vez aprobados el 70% de créditos.
+
+Requisitos para Titulación
+Aprobar todas las asignaturas de la estructura genérica y módulo de especialidad.
+Acreditar la residencia profesional.
+Cumplir con el servicio social.
+Aprobar el requisito de comprensión del idioma inglés.
+Presentar el examen de egreso (EGEL).
+Aprobar el acto recepcional del proceso de titulación.
+Misión
+Formar profesionales en administración con competencias directivas, compromiso ético, enfoque humanista y visión sostenible, capaces de innovar en contextos globales y diversos, respondiendo a los retos del entorno con responsabilidad social.
+
+Visión
+Ser un programa reconocido por egresar líderes responsables, con habilidades para transformar organizaciones y contribuir al desarrollo sostenible.
+
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	LAC-1035	Teoría General de la Administración	2	2	4	1	178.2 KB
+2	LAV-1025	Informática para la Administración	0	5	5	1	191.7 KB
+3	ACA-0907	Taller de Ética	0	4	4	1	180.6 KB
+4	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+5	LAD-1027	Matemáticas Aplicadas a la Administración	2	3	5	1	181.4 KB
+6	LAD-1006	Contabilidad General	2	3	5	1	184.2 KB
+7	LAF-1019	Función Administrativa I	3	2	5	2	189.6 KB
+8	LAD-1016	Estadística para la Administración I	2	3	5	2	200.1 KB
+9	LAF-1010	Derecho Laboral y Seguridad Social	3	2	5	2	186.2 KB
+10	LAC-1004	Comunicación Corporativa	2	2	4	2	183.9 KB
+11	LAC-1034	Taller de Desarrollo Humano	2	2	4	2	171.4 KB
+12	LAD-1008	Costos de Manufactura	2	3	5	2	185.4 KB
+13	LAD-1020	Función Administrativa II	2	3	5	3	186.1 KB
+14	LAD-1017	Estadística para la Administración II	2	3	5	3	192.7 KB
+15	LAD-1009	Derecho Empresarial	2	3	5	3	192.9 KB
+16	LAD-1003	Comportamiento Organizacional	2	3	5	3	186.4 KB
+17	LAC-1013	Dinámica Social	2	2	4	3	182.1 KB
+18	LAD-1007	Contabilidad Gerencial	2	3	5	3	187.3 KB
+19	LAD-1023	Gestión Estratégica del Capital Humano I	2	3	5	4	186.0 KB
+20	LAD-1031	Procesos Estructurales	2	3	5	4	195.4 KB
+21	LAD-1028	Métodos Cuantitativos para la Administración	2	3	5	4	189.0 KB
+22	LAF-1021	Fundamentos de Mercadotecnia	3	2	5	4	180.6 KB
+23	LAD-1014	Economía Empresarial	2	3	5	4	187.8 KB
+24	AEC-1079	Matemáticas Financieras	2	2	4	4	163.7 KB
+25	LAD-1024	Gestión Estratégica del Capital Humano II	2	3	5	5	181.7 KB
+26	AEC-1070	Derecho Fiscal	2	2	4	5	180.1 KB
+27	AEC-1080	Mezcla de Mercadotecnia	2	2	4	5	168.1 KB
+28	AEC-1077	Macroeconomía	2	2	4	5	188.0 KB
+29	AED-1068	Administración Financiera I	2	3	5	5	180.9 KB
+30	ACD-0908	Desarrollo Sustentable	2	3	5	5	187.2 KB
+31	LAM-1022	Gestión de la Retribución	2	4	6	6	188.0 KB
+32	LAF-1032	Producción	3	2	5	6	189.9 KB
+33	ACA-0909	Taller de Investigación I	0	4	4	6	180.0 KB
+34	LAD-1033	Sistemas de Información de Mercadotecnia	2	3	5	6	182.7 KB
+35	LAA-1026	Innovación y Emprendedurismo	0	4	4	6	200.6 KB
+36	LAD-1002	Administración Financiera II	2	3	5	6	164.3 KB
+37	LAB-1029	Plan de Negocios	1	4	5	7	186.9 KB
+38	LAC-1030	Procesos de Dirección	2	2	4	7	184.3 KB
+39	ACA-0910	Taller de Investigación II	0	4	4	7	176.2 KB
+40	LAD-1001	Administración de la Calidad	2	3	5	7	191.1 KB
+41	LAC-1015	Economía Internacional	2	2	4	7	185.5 KB
+42	LAD-1012	Diagnóstico y Evaluación Empresarial	2	3	5	7	183.3 KB
+43	LAC-1005	Consultoría Empresarial	2	2	4	8	183.5 KB
+44	LAD-1018	Formulación y Evaluación de Proyectos	2	3	5	8	191.6 KB
+45	LAD-1011	Desarrollo Organizacional	2	3	5	8	189.2 KB
+46		Especialidad			25	9	 
+47		Residencia Profesional			10	9	 
+48		Servicio Social			10	7	 
+49		Actividades Complementarias			5	1	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+LAC-1035
+Teoría General de la Administración
+2 2 4	LAF-1019
+Función Administrativa I
+3 2 5	LAD-1020
+Función Administrativa II
+2 3 5	LAD-1023
+Gestión Estratégica del Capital Humano I
+2 3 5	LAD-1024
+Gestión Estratégica del Capital Humano II
+2 3 5	LAM-1022
+Gestión de la Retribución
+2 4 6	LAB-1029
+Plan de Negocios
+1 4 5	LAC-1005
+Consultoría Empresarial
+2 2 4	 
+LAV-1025
+Informática para la Administración
+0 5 5	LAD-1016
+Estadística para la Administración I
+2 3 5	LAD-1017
+Estadística para la Administración II
+2 3 5	LAD-1031
+Procesos Estructurales
+2 3 5	AEC-1070
+Derecho Fiscal
+2 2 4	LAF-1032
+Producción
+3 2 5	LAC-1030
+Procesos de Dirección
+2 2 4	LAD-1018
+Formulación y Evaluación de Proyectos
+2 3 5	
+Residencia Profesional
+10
+ACA-0907
+Taller de Ética
+0 4 4	LAF-1010
+Derecho Laboral y Seguridad Social
+3 2 5	LAD-1009
+Derecho Empresarial
+2 3 5	LAD-1028
+Métodos Cuantitativos para la Administración
+2 3 5	AEC-1080
+Mezcla de Mercadotecnia
+2 2 4	ACA-0909
+Taller de Investigación I
+0 4 4	ACA-0910
+Taller de Investigación II
+0 4 4	LAD-1011
+Desarrollo Organizacional
+2 3 5
+ACC-0906
+Fundamentos de Investigación
+2 2 4	LAC-1004
+Comunicación Corporativa
+2 2 4	LAD-1003
+Comportamiento Organizacional
+2 3 5	LAF-1021
+Fundamentos de Mercadotecnia
+3 2 5	AEC-1077
+Macroeconomía
+2 2 4	LAD-1033
+Sistemas de Información de Mercadotecnia
+2 3 5	LAD-1001
+Administración de la Calidad
+2 3 5	 	
+Especialidad
+25
+LAD-1027
+Matemáticas Aplicadas a la Administración
+2 3 5	LAC-1034
+Taller de Desarrollo Humano
+2 2 4	LAC-1013
+Dinámica Social
+2 2 4	LAD-1014
+Economía Empresarial
+2 3 5	AED-1068
+Administración Financiera I
+2 3 5	LAA-1026
+Innovación y Emprendedurismo
+0 4 4	LAC-1015
+Economía Internacional
+2 2 4	 
+LAD-1006
+Contabilidad General
+2 3 5	LAD-1008
+Costos de Manufactura
+2 3 5	LAD-1007
+Contabilidad Gerencial
+2 3 5	AEC-1079
+Matemáticas Financieras
+2 2 4	ACD-0908
+Desarrollo Sustentable
+2 3 5	LAD-1002
+Administración Financiera II
+2 3 5	LAD-1012
+Diagnóstico y Evaluación Empresarial
+2 3 5	 	 
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 
+27	28	29	29	27	29	27	14	25
+Asignaturas de la especialidad en Desarrollo y Posicionamiento Competitivo
+ 	Clave	Nombre	HT	HP	Cred.	Archivo
+1	DPF-2001	Clínica Empresarial	2	8	10	 
+2	DPF-2002	Estrategias de Negocios	2	3	5	 
+3	DPF-2003	Mercadotecnia Digital	1	4	5	 
+4	DPF-2004	Sistemas Integrales de Información	2	3	5	 
+Total:	25	 
+ 
+
+NO ESCOLARIZADAS : 
+
+Ingeniería en Gestión Empresarial (No escolarizada)
+IGEM-2009-201
+
+Objetivo de la carrera
+Formar profesionales que contribuyan a la gestión de empresas e innovación de procesos; así como al diseño, implementación y desarrollo de sistemas estratégicos de negocios, optimizando recursos en un entorno global, con ética y responsabilidad social.
+
+Objetivos Educacionales
+Aplican las habilidades directivas en los diferentes niveles jerárquicos de la organización.
+Fortalecen su desarrollo profesional a través de cursos de especialidad, certificaciones, diplomados, maestrías entre otros.
+Aplican sus competencias emprendedoras para crear y dirigir empresas.
+Utilizan tecnologías de la información y comunicaciones para mejorar el desempeño de sus actividades.
+Perfil de ingreso
+Actitud emprendedora.
+Habilidades de expresión y comunicación verbal, oral y escrita.
+Conocimientos básicos en el uso de las TICs.
+Habilidades de liderazgo.
+Trabajo en equipo.
+Enfrentar retos.
+Habilidades en métodos de estudio.
+Interés hacia las asignaturas del área de ciencias económico administrativas.
+Actitud de respeto a la diversidad cultural.
+Conciencia ecológica.
+Perfil de egreso
+Aplica habilidades directivas y de ingeniería en el diseño, gestión, fortalecimiento e innovación de las organizaciones para la toma de decisiones en forma efectiva, con una orientación sistémica y sustentable.
+Diseña e innova estructuras administrativas y procesos, con base en las necesidades de las organizaciones para competir eficientemente en mercados globales.
+Gestiona eficientemente los recursos de la organización con visión compartida, con el fin de suministrar bienes y servicios de calidad.
+Aplica métodos cuantitativos y cualitativos en el análisis e interpretación de datos y modelado de sistemas en los procesos organizacionales, para la mejora continua atendiendo estándares de calidad mundial.
+Diseña, y emprende nuevos negocios y proyectos empresariales sustentables en mercados competitivos, para promover el desarrollo.
+Diseña e implementa estrategias de mercadotecnia basadas en información recopilada de fuentes primarias y secundarias, para incrementar la competitividad de las organizaciones.
+Implementa planes y programas de seguridad e higiene para el fortalecimiento del entorno laboral.
+Gestiona sistemas integrales de calidad para la mejora de los procesos, ejerciendo un liderazgo estratégico y un compromiso ético.
+Aplica las normas legales para la creación y desarrollo de las organizaciones.
+Dirige equipos de trabajo para la mejora continua y el crecimiento integral de las organizaciones.
+Interpreta la información financiera para detectar oportunidades de mejora e inversión en un mundo global, que propicien la rentabilidad del negocio.
+Utiliza las nuevas tecnologías de información y comunicación en la organización, para optimizar los procesos y la eficaz toma de decisiones.
+Promueve el desarrollo del capital humano, para la realización de los objetivos organizacionales, dentro de un marco ético y un contexto multicultural.
+Aplica métodos de investigación para desarrollar e innovar modelos, sistemas, procesos y productos en las diferentes dimensiones de la organización.
+Gestiona la cadena de suministro de las organizaciones con un enfoque orientado a procesos para incrementar la productividad.
+Analiza las variables económicas para facilitar la toma estratégica de decisiones en la organización.
+Actúa como agente de cambio para facilitar la mejora continua y el desempeño de las organizaciones.
+Aplica métodos, técnicas y herramientas para la solución de problemas en la gestión empresarial con una visión estratégica.
+Atributos de egreso
+Identificar y resolver problemas aplicando técnicas y métodos de ingeniería.
+Diseñar e innovar estructuras administrativas y procesos, con base en las necesidades de las organizaciones para competir en mercados globales.
+Formular, evaluar y emprender proyectos diversos considerando el entorno económico.
+Comunicar efectivamente en diferentes entornos, apoyándose en las tecnologías de la información.
+Gestionar y utilizar los recursos para el diseño, constitución y operación de empresas en un marco legal y responsabilidad social.
+Asumir el compromiso de un aprendizaje continuo para fortalecer sus habilidades profesionales y ampliar sus áreas de oportunidad.
+Dirigir y participar en equipos multidisciplinarios e interculturales en busca del cumplimiento de objetivos, y el fortalecimiento de sus miembros.
+Implementar sistemas de gestión de calidad en las organizaciones.
+Misión
+Formar integralmente ingenieros en gestión empresarial competitivos en el ámbito nacional e internacional; comprometidos con la sociedad y su entorno, aplicando con profesionalismo; la ciencia, la tecnología y valores sociales, sustentados en programas educativos de excelencia.
+
+Visión
+Consolidar la carrera de Ingeniería en Gestión Empresarial como pieza fundamental en las áreas claves de las organizaciones; a través, de la formación científica, tecnológica y ética de sus estudiantes, conscientes de las necesidades de una sociedad globalizada.
+
+
+Ingeniería en Sistemas Computacionales TecNM Virtual (No escolarizada)
+ISIC-2010-224 *
+
+Objetivo de la carrera
+https://virtual.tecnm.mx/index.php/sistemas-computacionales/
+
+Formar profesionistas líderes con visión estratégica y amplio sentido ético; capaz de diseñar, desarrollar, implementar y administrar tecnología computacional para aportar soluciones innovadoras en beneficio de la sociedad; en un contexto global, multidisciplinario y sostenible.
+
+Perfil de egreso
+Implementa aplicaciones computacionales para solucionar problemas de diversos contextos, integrando diferentes tecnologías, plataformas o dispositivos.
+Diseña, desarrolla y aplica modelos computacionales para solucionar problemas, mediante la selección y uso de herramientas matemáticas.
+Diseña e implementa interfaces para la automatización de sistemas de hardware y desarrollo del software asociado.
+Coordina y participa en equipos multidisciplinarios para la aplicación de soluciones innovadoras en diferentes contextos.
+Diseña, implementa y administra bases de datos optimizando los recursos disponibles, conforme a las normas vigentes de manejo y seguridad de la información.
+Desarrolla y administra software para apoyar la productividad y competitividad de las organizaciones cumpliendo con estándares de calidad.
+Evalúa tecnologías de hardware para soportar aplicaciones de manera efectiva.
+Detecta áreas de oportunidad empleando una visión empresarial para crear proyectos aplicando las Tecnologías de la Información y Comunicación.
+Diseña, configura y administra redes de computadoras para crear soluciones de conectividad en la organización, aplicando las normas y estándares vigentes.
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	ACF-2301	Cálculo Diferencial	3	2	5	1	253.3 KB
+2	AED-1285	Fundamentos de Programación	3	2	5	1	172.0 KB
+3	ACH-2307	Taller de Ética	1	3	4	1	296.1 KB
+4	AEF-1041	Matemáticas Discretas	3	2	5	1	182.4 KB
+5	SCH-1024	Taller de Administración	1	3	4	1	170.6 KB
+6	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+7	ACF-0902	Cálculo Integral	3	2	5	2	166.4 KB
+8	AED-1286	Programación Orientada a Objetos	2	3	5	2	177.6 KB
+9	AEC-1008	Contabilidad Financiera	2	2	4	2	156.7 KB
+10	AEC-1058	Química	2	2	4	2	187.1 KB
+11	ACF-0903	Álgebra Lineal	3	2	5	2	199.7 KB
+12	AEF-1052	Probabilidad y Estadística	3	2	5	2	181.2 KB
+13	ACF-0904	Cálculo Vectorial	3	2	5	3	188.6 KB
+14	AED-1026	Estructura de Datos	2	3	5	3	170.0 KB
+15	SCC-1005	Cultura Empresarial	2	2	4	3	188.2 KB
+16	SCC-1013	Investigación de Operaciones	2	2	4	3	177.1 KB
+17	ACD-0908	Desarrollo Sustentable	2	3	5	3	187.2 KB
+18	AEF-24129	Física General	3	2	5	3	267.9 KB
+19	ACF-0905	Ecuaciones Diferenciales	3	2	5	4	175.7 KB
+20	AEC-24128	Métodos Numéricos	2	2	4	4	244.7 KB
+21	SCD-1027	Tópicos Avanzados de Programación	2	3	5	4	174.6 KB
+22	AEF-1031	Fundamentos de Base de Datos	3	2	5	4	171.3 KB
+23	SCD-1022	Simulación	2	3	5	4	179.8 KB
+24	SCD-1018	Principios Eléctricos y Aplicaciones Digitales	2	3	5	4	171.0 KB
+25	SCC-1010	Graficación	2	2	4	5	186.0 KB
+26	AEC-1034	Fundamentos de Telecomunicaciones	2	2	4	5	168.7 KB
+27	AEC-1061	Sistemas Operativos	2	2	4	5	166.9 KB
+28	AEC-24131	Taller de Base de Datos	2	2	4	5	247.8 KB
+29	SCC-1007	Fundamentos de Ingeniería de Software	2	2	4	5	180.5 KB
+30	SCD-1003	Arquitectura de Computadoras	2	3	5	5	170.2 KB
+31	SCD-1015	Lenguajes y Autómatas I	2	3	5	6	178.4 KB
+32	SCD-1021	Redes de Computadoras	2	3	5	6	170.2 KB
+33	SCA-1026	Taller de Sistemas Operativos	0	4	4	6	175.4 KB
+34	SCB-1001	Administración de Base de Datos	1	4	5	6	175.4 KB
+35	SCD-1011	Ingeniería de Software	2	3	5	6	28.6 KB
+36	SCC-1014	Lenguajes de Interfaz	2	2	4	6	169.0 KB
+37	SCD-1016	Lenguajes y Autómatas II	2	3	5	7	172.9 KB
+38	SCD-1004	Conmutación y Enrutamiento en Redes de Datos	2	3	5	7	169.2 KB
+39	ACA-0909	Taller de Investigación I	0	4	4	7	180.0 KB
+40	SCG-1009	Gestión de Proyectos de Software	3	3	6	7	173.1 KB
+41	SCC-1023	Sistemas Programables	2	2	4	7	175.0 KB
+42	SCC-1019	Programación Lógica y Funcional	2	2	4	8	171.0 KB
+43	SCA-1002	Administración de Redes	0	4	4	8	170.3 KB
+44	ACA-0910	Taller de Investigación II	0	4	4	8	176.2 KB
+45	AEB-1055	Programación Web	1	4	5	8	169.0 KB
+46	SCC-1012	Inteligencia Artificial	2	2	4	9	173.3 KB
+47		Actividades Complementarias			5	1	 
+48		Especialidad			25	9	 
+49		Servicio Social			10	6	 
+50		Residencia Profesional			10	9	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+ACF-2301
+Cálculo Diferencial
+3 2 5	ACF-0902
+Cálculo Integral
+3 2 5	ACF-0904
+Cálculo Vectorial
+3 2 5	ACF-0905
+Ecuaciones Diferenciales
+3 2 5	SCC-1010
+Graficación
+2 2 4	SCD-1015
+Lenguajes y Autómatas I
+2 3 5	SCD-1016
+Lenguajes y Autómatas II
+2 3 5	SCC-1019
+Programación Lógica y Funcional
+2 2 4	SCC-1012
+Inteligencia Artificial
+2 2 4
+AED-1285
+Fundamentos de Programación
+3 2 5	AED-1286
+Programación Orientada a Objetos
+2 3 5	AED-1026
+Estructura de Datos
+2 3 5	AEC-24128
+Métodos Numéricos
+2 2 4	AEC-1034
+Fundamentos de Telecomunicaciones
+2 2 4	SCD-1021
+Redes de Computadoras
+2 3 5	SCD-1004
+Conmutación y Enrutamiento en Redes de Datos
+2 3 5	SCA-1002
+Administración de Redes
+0 4 4	
+Residencia Profesional
+10
+ACH-2307
+Taller de Ética
+1 3 4	AEC-1008
+Contabilidad Financiera
+2 2 4	SCC-1005
+Cultura Empresarial
+2 2 4	SCD-1027
+Tópicos Avanzados de Programación
+2 3 5	AEC-1061
+Sistemas Operativos
+2 2 4	SCA-1026
+Taller de Sistemas Operativos
+0 4 4	ACA-0909
+Taller de Investigación I
+0 4 4	ACA-0910
+Taller de Investigación II
+0 4 4
+AEF-1041
+Matemáticas Discretas
+3 2 5	AEC-1058
+Química
+2 2 4	SCC-1013
+Investigación de Operaciones
+2 2 4	AEF-1031
+Fundamentos de Base de Datos
+3 2 5	AEC-24131
+Taller de Base de Datos
+2 2 4	SCB-1001
+Administración de Base de Datos
+1 4 5	SCG-1009
+Gestión de Proyectos de Software
+3 3 6	AEB-1055
+Programación Web
+1 4 5	
+Especialidad
+25
+SCH-1024
+Taller de Administración
+1 3 4	ACF-0903
+Álgebra Lineal
+3 2 5	ACD-0908
+Desarrollo Sustentable
+2 3 5	SCD-1022
+Simulación
+2 3 5	SCC-1007
+Fundamentos de Ingeniería de Software
+2 2 4	SCD-1011
+Ingeniería de Software
+2 3 5	SCC-1023
+Sistemas Programables
+2 2 4	 
+ACC-0906
+Fundamentos de Investigación
+2 2 4	AEF-1052
+Probabilidad y Estadística
+3 2 5	AEF-24129
+Física General
+3 2 5	SCD-1018
+Principios Eléctricos y Aplicaciones Digitales
+2 3 5	SCD-1003
+Arquitectura de Computadoras
+2 3 5	SCC-1014
+Lenguajes de Interfaz
+2 2 4	 	 	 
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 	 	 
+27	28	28	29	25	28	24	17	29
+ 
+
+Ingeniería Industrial TecNM Virtual (No escolarizada)
+IIND-2010-227 *
+
+Objetivo de la carrera
+https://virtual.tecnm.mx/index.php/industrial/
+
+Formar profesionales, éticos, líderes, creativos y emprendedores en el área de Ingeniería Industrial; competente para diseñar, implantar, administrar, innovar y optimizar sistemas de producción de bienes y servicios; con enfoque sistémico y sustentable en un entorno global.
+
+Objetivos Educacionales
+Los egresados serán emprendedores creando su empresa.
+Los egresados se desarrollan en una de las áreas de la ingeniería industrial, involucrándose en la administración, mejora y optimización de sistemas de producción de bienes y servicios.
+Los egresados serán capaces de tomar decisiones para el uso eficiente de los recursos en la producción de bienes y servicios.
+Los egresados serán capaces de diseñar y/o implementar y/o administrar, sistemas integrales de gestión en su práctica profesional.
+Los egresados desarrollan competencias que les permiten incursionar, en estudios de posgrado, en áreas de la ingeniería industrial.
+Los egresados se actualizan profesionalmente para la mejora de su desempeño laboral.
+Perfil de egreso
+Diseña, mejora e integra sistemas productivos de bienes y servicios aplicando tecnologías para su optimización.
+Diseña, implementa y mejora sistemas de trabajo para elevar la productividad.
+Implanta sistemas de calidad utilizando métodos estadísticos para mejorar la competitividad de las organizaciones.
+Administra sistemas de mantenimiento en procesos de bienes y servicios para la optimización en el uso de los recursos.
+Gestiona sistemas de seguridad, salud ocupacional de manera sustentable, en sistemas productivos de bienes y servicios atendiendo los lineamientos legales.
+Formula, evalúa y gestiona proyectos de inversión, sociales y de transferencia de tecnología para el desarrollo regional.
+Plan de estudios
+ 	Clave	Nombre	HT	HP	Cred.	Sem.	Archivo
+1	ACC-0906	Fundamentos de Investigación	2	2	4	1	178.9 KB
+2	ACH-2307	Taller de Ética	1	3	4	1	296.1 KB
+3	ACF-2301	Cálculo Diferencial	3	2	5	1	253.3 KB
+4	INH-1029	Taller de Herramientas Intelectuales	1	3	4	1	182.8 KB
+5	INC-1025	Química	2	2	4	1	177.6 KB
+6	INN-1008	Dibujo Industrial	0	6	6	1	181.8 KB
+7	INC-1009	Electricidad y Electrónica Industrial	2	2	4	2	177.3 KB
+8	INC-1024	Propiedad de los Materiales	2	2	4	2	167.3 KB
+9	ACF-0902	Cálculo Integral	3	2	5	2	166.4 KB
+10	AEC-1053	Probabilidad y Estadistica	2	2	4	2	176.2 KB
+11	INQ-1006	Análisis de la Realidad Nacional	1	2	3	2	173.9 KB
+12	AEC-24130	Taller de Liderazgo	2	2	4	2	255.0 KB
+13	AEC-1048	Metrología y Normalización	2	2	4	3	166.0 KB
+14	ACF-0903	Álgebra Lineal	3	2	5	3	199.7 KB
+15	ACF-0904	Cálculo Vectorial	3	2	5	3	188.6 KB
+16	AEC-1018	Economía	2	2	4	3	171.6 KB
+17	AEF-1024	Estadística Inferencial I	3	2	5	3	172.6 KB
+18	INJ-1011	Estudio del Trabajo I	4	2	6	3	166.6 KB
+19	INC-1023	Procesos de Fabricación	2	2	4	4	176.1 KB
+20	INC-1013	Física	2	2	4	4	166.3 KB
+21	INC-1005	Algoritmos y Lenguajes de Programación	2	2	4	4	180.5 KB
+22	INC-1018	Investigación de Operaciones I	2	2	4	4	179.1 KB
+23	AEF-1025	Estadistica Inferencial II	3	2	5	4	186.5 KB
+24	INJ-1012	Estudio del Trabajo II	4	2	6	4	165.3 KB
+25	INF-1016	Higiene y Seguridad Industrial	3	2	5	4	164.6 KB
+26	INR-1003	Administración de Proyectos	2	1	3	5	169.0 KB
+27	AEC-1392	Gestión de Costos	2	2	4	5	160.1 KB
+28	INC-1001	Administración de las Operaciones I	2	2	4	5	178.6 KB
+29	INC-1019	Investigación de Operaciones II	2	2	4	5	171.2 KB
+30	INF-1007	Control Estadístico de la Calidad	3	2	5	5	224.7 KB
+31	INF-1010	Ergonomía	3	2	5	5	164.9 KB
+32	ACD-0908	Desarrollo Sustentable	2	3	5	5	187.2 KB
+33	ACA-0909	Taller de Investigación I	0	4	4	6	180.0 KB
+34	AEC-1037	Ingeniería Económica	2	2	4	6	169.6 KB
+35	INC-1002	Administración de las Operaciones II	2	2	4	6	176.2 KB
+36	INC-1027	Simulación	2	2	4	6	203.6 KB
+37	INC-1004	Administración del Mantenimiento	2	2	4	6	173.5 KB
+38	AED-1044	Mercadotecnia	2	3	5	6	184.7 KB
+39	ACA-0910	Taller de Investigación II	0	4	4	7	176.2 KB
+40	INC-1021	Planeación Financiera	2	2	4	7	187.8 KB
+41	INC-1022	Planeación y Diseño de Instalaciones	2	2	4	7	168.5 KB
+42	INF-1028	Sistemas de Manufactura	3	2	5	7	163.2 KB
+43	INH-1020	Logística y Cadenas de Suministro	1	3	4	7	182.8 KB
+44	INC-1015	Gestión de los Sistemas de Calidad	2	2	4	7	176.9 KB
+45	INR-1017	Ingeniería de Sistemas	2	1	3	7	180.7 KB
+46	AED-1030	Formulación y Evaluación de Proyectos	2	3	5	8	170.6 KB
+47	INC-1026	Relaciones Industriales	2	2	4	8	188.3 KB
+48		Actividades Complementarias			5	1	 
+49		Especialidad			31	9	 
+50		Servicio Social			10	6	 
+51		Residencia Profesional			10	9	 
+Total:	260	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4	Semestre 5	Semestre 6	Semestre 7	Semestre 8	Semestre 9
+ACC-0906
+Fundamentos de Investigación
+2 2 4	INC-1009
+Electricidad y Electrónica Industrial
+2 2 4	AEC-1048
+Metrología y Normalización
+2 2 4	INC-1023
+Procesos de Fabricación
+2 2 4	INR-1003
+Administración de Proyectos
+2 1 3	ACA-0909
+Taller de Investigación I
+0 4 4	ACA-0910
+Taller de Investigación II
+0 4 4	AED-1030
+Formulación y Evaluación de Proyectos
+2 3 5	
+Residencia Profesional
+10
+ACH-2307
+Taller de Ética
+1 3 4	INC-1024
+Propiedad de los Materiales
+2 2 4	ACF-0903
+Álgebra Lineal
+3 2 5	INC-1013
+Física
+2 2 4	AEC-1392
+Gestión de Costos
+2 2 4	AEC-1037
+Ingeniería Económica
+2 2 4	INC-1021
+Planeación Financiera
+2 2 4	INC-1026
+Relaciones Industriales
+2 2 4
+ACF-2301
+Cálculo Diferencial
+3 2 5	ACF-0902
+Cálculo Integral
+3 2 5	ACF-0904
+Cálculo Vectorial
+3 2 5	INC-1005
+Algoritmos y Lenguajes de Programación
+2 2 4	INC-1001
+Administración de las Operaciones I
+2 2 4	INC-1002
+Administración de las Operaciones II
+2 2 4	INC-1022
+Planeación y Diseño de Instalaciones
+2 2 4	 	
+Especialidad
+31
+INH-1029
+Taller de Herramientas Intelectuales
+1 3 4	AEC-1053
+Probabilidad y Estadistica
+2 2 4	AEC-1018
+Economía
+2 2 4	INC-1018
+Investigación de Operaciones I
+2 2 4	INC-1019
+Investigación de Operaciones II
+2 2 4	INC-1027
+Simulación
+2 2 4	INF-1028
+Sistemas de Manufactura
+3 2 5	 
+INC-1025
+Química
+2 2 4	INQ-1006
+Análisis de la Realidad Nacional
+1 2 3	AEF-1024
+Estadística Inferencial I
+3 2 5	AEF-1025
+Estadistica Inferencial II
+3 2 5	INF-1007
+Control Estadístico de la Calidad
+3 2 5	INC-1004
+Administración del Mantenimiento
+2 2 4	INH-1020
+Logística y Cadenas de Suministro
+1 3 4	 	 
+INN-1008
+Dibujo Industrial
+0 6 6	AEC-24130
+Taller de Liderazgo
+2 2 4	INJ-1011
+Estudio del Trabajo I
+4 2 6	INJ-1012
+Estudio del Trabajo II
+4 2 6	INF-1010
+Ergonomía
+3 2 5	AED-1044
+Mercadotecnia
+2 3 5	INC-1015
+Gestión de los Sistemas de Calidad
+2 2 4	 	 
+ 	 	 	INF-1016
+Higiene y Seguridad Industrial
+3 2 5	ACD-0908
+Desarrollo Sustentable
+2 3 5	 	INR-1017
+Ingeniería de Sistemas
+2 1 3	 	 
+
+Actividades Complementarias
+5	
+Servicio Social
+10	 	 	 
+27	24	29	32	30	25	28	9	31
+
+
+Maestría en Ciencias en Alimentos
+El programa de la Maestría en Ciencias en Alimentos que se imparte en el Instituto Tecnológico de Tepic se encuentra dentro del Padrón Nacional de Posgrados de Calidad reconocido por el CONACYT, lo que permite que a todos los estudiantes aceptados se les tramite una BECA-CONACYT.
+
+Objetivo general
+Formar personal científico en las áreas de Ciencia, Inocuidad e Ingeniería de Alimentos y Biotecnología, capaz de desarrollar procesos para la conservación e industrialización de productos alimenticios, particularmente frutas tropicales, y aportar recomendaciones al sector hortofrutícola regional sobre su manejo, transporte, almacenamiento y distribución mediante la elaboración de proyectos de investigación básica y/o aplicada.
+
+Objetivos específicos
+
+Formar profesionales con una sólida base científica y tecnológica que coadyuven a la solución de la problemática del sector hortofrutícola regional.
+Formular propuestas de investigación e innovación tecnológica encaminadas a resolver la problemática en torno a la producción y manejo de frutos tropicales y hortalizas mediante el uso de herramientas de biología molecular, biotecnología e inocuidad alimentaria.
+Perfil de egreso
+El egresado de la Maestría en Ciencias en Alimentos tendrá la capacidad de incursionar en:
+
+Producción, manejo y conservación de alimentos.
+Colaborar en la planeación, implementación y desarrollo de agroindustrias, tanto a nivel regional como nacional.
+Participar en el diseño y análisis económico de procesos para la producción de alimentos y el establecimiento de técnicas de control sanitario y de calidad.
+Desarrollar, implementar y participar en proyectos de investigación científica y/o tecnológica en el área de ciencia y tecnología de alimentos.
+Continuar con la preparación académica hasta obtener el grado de Doctor en Ciencias en alguna institución de prestigio y con reconocimiento nacional o internacional.
+Plan de estudios
+ 	Nombre	Créditos	Archivo
+Fundamentos del área de Química de los Alimentos	6	59.7 KB
+Metodología de la Investigación	6	58.8 KB
+Métodos estadísticos	6	77.7 KB
+Análisis de los Alimentos	6	60.7 KB
+Seminario de Investigación I	4	49.3 KB
+Seminario de Investigación II	4	50.3 KB
+Seminario de Investigación III	4	71.0 KB
+Materias Optativas	24	127.6 KB
+Tesis	40	 
+Total:	100	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4
+
+Metodología de la Investigación
+(48-20-100-168-6)	
+Seminario de Investigación I
+(16-20-100-136-4)	
+Seminario de Investigación II
+(16-20-100-136-4)	
+Seminario de Investigación III
+(16-20-100-136-4)
+
+Fundamentos del área de Química de los Alimentos
+(48-20-100-168-6)	
+Optativa
+(48-20-100-168-6)	
+Optativa
+(48-20-100-168-6)	
+Tesis
+(0-800-0-800-40)
+
+Métodos estadísticos
+(48-20-100-168-6)	
+Optativa
+(48-20-100-168-6)	 	 
+
+Análisis de los Alimentos
+(48-20-100-168-6)	
+Optativa
+(48-20-100-168-6)	 	 
+24	22	10	44
+Optativas
+ 	Nombre	Créditos	Archivo
+Biopolímeros Alimentarios	6	 
+Enzimas de Alimentos	6	 
+Residuos Tóxicos en Alimentos	6	 
+Temas Selectos II	6	 
+Microbiología Industrial en Alimentos	6	 
+Procesamiento de Alimentos	6	 
+Temas Selectos III	6	 
+Fundamentos de Ingeniería de Alimentos	6	 
+Análasis Sensorial	6	 
+Biotecnología de Alimentos	6	 
+Tecnología de Alimentos de Origen Animal	6	 
+Inocuidad Alimentaria	6	 
+Alimentos Funcionales	6	 
+Temas Selectos I	6	 
+Nutricion Humana	6	 
+Toxicología de Alimentos	6	 
+Genética Microbiana	6	 
+Fisiología y Manejo Post-Cosecha de Frutas y Hortalizas	6	 
+Patología de Frutas Hortalizas	6	 
+Aseguramiento de la Calidad de los Alimentos	6	 
+Fisicoquímica de Alimentos	6	 
+Ingeniería de Alimentos	6	 
+Microbiología de Alimentos	6	 
+Tecnología de Alimentos de Origen Vegetal	6	 
+Aprov. de los Co-productos y Residuos Agroindustriales	6	 
+ 
+
+Planta académica
+ 	Puesto	Nombre
+ 	Docente	BLANCAS BENITEZ FRANCISCO JAVIER
+ 	Docente	CALDERON SANTOYO MONTSERRAT
+ 	Docente	CHACON LOPEZ MARTINA ALEJANDRA
+ 	Docente	GARCIA MAGAÑA MARIA DE LOURDES
+ 	Docente	GUTIERREZ MARTINEZ PORFIRIO
+ 	Docente	LOPEZ GARCIA ULISES MIGUEL
+ 	Docente	MONTALVO GONZALEZ EFIGENIA
+ 	Docente	ORTIZ BASURTO ROSA ISELA
+ 	Docente	RAGAZZO SANCHEZ JUAN ARTURO
+ 	Docente	SANCHEZ BURGOS JORGE ALBERTO
+ 	Docente	SAYAGO AYERDI SONIA GUADALUPE
+ 	Docente	VELAZQUEZ ESTRADA RITA MARIA
+ 	Docente	ZAMORA GASGA VICTOR MANUEL
+
+Maestría en Vivienda y Entorno Habitable
+Objetivo general
+Desarrollar recursos humanos con una alta calidad académica, capacidad innovadora y dominio de conocimientos, técnicas y habilidades que les permitan realizar una toma eficaz de decisiones en el campo de la construcción de vivienda, con pertinencia social y enfoque sustentable.
+
+Objetivos específicos
+Consolidar un espacio de enseñanza- aprendizaje e investigación sobre los temas relacionados con la construcción de vivienda tanto en la localidad, como a nivel regional y del país.
+Mantener el plan de estudios actualizado, flexible y vinculado de manera permanente al campo de la construcción de vivienda, al ámbito social y sustentable.
+Garantizar una eficiencia terminal de al menos 70 por ciento de los estudiantes que ingresen al programa y lograr que los egresados tengan una formación sólida y puedan insertarse al mercado con mejores oportunidades.
+Perfil de egreso
+El egresado de la Maestría en Vivienda y Entorno Habitable dispondrá de un conjunto de conocimientos, habilidades y valores que le permitirán desempeñarse con calidad, aplicando de manera adecuada y práctica los conocimientos adquiridos en las áreas de la tecnología y la administración de la construcción de vivienda bajo un enfoque sustentable.
+
+Al término del programa, el egresado de la MVEH podrá ser capaz de:
+
+Desarrollar y/o implementar proyectos en el área de la industria de la construcción de vivienda, con liderazgo y una actitud crítica que promueva la participación multi e interdisciplinaria.
+Diseñar procesos de planeación urbana y construcción eficientes y sustentables, tendientes a mitigar el impacto sobre el ambiente.
+Vincularse con el sector académico, la iniciativa privada y las instancias gubernamentales para atender la problemática de la industria de la construcción de vivienda con un enfoque ambiental.
+Aplicar la cultura del desarrollo sustentable en todas las actividades de su ejercicio profesional.
+Plan de estudios
+ 	Nombre	Créditos	Archivo
+Seminario I	4	 
+Metodología de la Investigación	6	727.3 KB
+Políticas públicas de vivienda	6	831.0 KB
+Estudios preliminares técnicos, sociales y financieros, factibilidad y pert.	6	939.6 KB
+Materiales y sistemas constructivos	6	816.0 KB
+Seminario II	4	 
+Optativa I	6	 
+Optativa II	6	 
+Optativa III	6	 
+Seminario III	4	 
+Optativa IV	6	 
+Tesis	40	 
+Total:	100	 
+Mapa del plan de estudios
+Semestre 1	Semestre 2	Semestre 3	Semestre 4
+
+Seminario I
+(16-20-100-136-4)	
+Seminario II
+(16-20-100-136-4)	
+Seminario III
+(16-20-100-136-4)	
+Tesis
+(0-800-0-800-40)
+
+Metodología de la Investigación
+(48-60-0-108-6)	
+Optativa I
+(48-60-0-108-6)	
+Optativa IV
+(48-60-0-108-6)	 
+
+Políticas públicas de vivienda
+(48-60-0-108-6)	
+Optativa II
+(48-60-0-108-6)	 	 
+
+Estudios preliminares técnicos, sociales y financieros, factibilidad y pert.
+(48-60-0-108-6)	
+Optativa III
+(48-60-0-108-6)	 	 
+
+Materiales y sistemas constructivos
+(48-60-0-108-6)	 	 	 
+28	22	10	40
+Optativas
+ 	Nombre	Créditos	Archivo
+Gestión de Riesgos de la Vivienda	6	932.8 KB
+Desarrollo de Tecnologías de Construcción	6	645.8 KB
+Estudios sobre Vivienda y Ciudad	6	876.3 KB
+Aprovechamiento Integral de los Recursos Hidráulicos	6	622.0 KB
+Estadística Aplicada	6	915.8 KB
+Temas Selectos de Diseño Bioclimático	6	829.7 KB
+Taller de Proyectos Urbanos y Arquitectónicos sobre Vivienda	6	876.5 KB
+Instalaciones en Edificaciones	6	1.0 MB
+ 
+
+Planta académica
+ 	Puesto	Nombre
+ 	Docente	HOYOS CASTELLANOS CARLOS ALBERTO
+ 	Docente	AGUIRRE CAMACHO FERNANDO
+ 	Docente	NAVARRETE VALENCIA LUIS
+ 	Docente	RAMOS DELGADO RAYMUNDO
+ 	Docente	VAZQUEZ MAGAÑA J. JESUS
+ 	Docente	HERRERA LEON WILLIAM HERBE
+ 	Docente	TREVIÑO MONTEMAYOR FERNANDO
+ 	Docente	RAMIREZ PLANTILLAS AIDA ELIZABETH
+ 	Docente	ARIAS CRUZ LUIS ALEXIS
+ 	Docente	MIRAMONTES MORENO OSVALDO ALEJANDRO
+ 
+
+Doctorado en Ciencias en Alimentos
+El Programa de Doctorado en Ciencias en Alimentos impartido en el Instituto Tecnológico de Tepic está reconocido por CONACYT en el Padrón Nacional de Posgrados de Calidad. A los alumnos admitidos en el programa se les tramita una beca CONACYT por un periodo de cuatro años.
+
+Objetivo general
+Formar personal altamente calificado con conocimientos actuales en el área de biotecnología, conservación, procesamiento e innovación de productos alimentarios; capaces de desarrollar investigación científica original básica y/o aplicada, así como realizar actividades de docencia y difusión científica.
+
+Objetivos específicos
+
+Formar doctores en Ciencias en Alimentos con capacidad para generar investigación científica básica y/o aplicada en las áreas de Fisiología, Biotecnología, Microbiología, Nutrición o Ingeniería de alimentos que contribuyan a elevar el nivel de la enseñanza y la investigación.
+Participar en la solución de la problemática tecnológica de la industria y de los productores en el manejo y conservación de sus productos.
+Desarrollar la capacidad de crear sus propias líneas de investigación, acordes con las necesidades de México y de carácter interdisciplinario.
+Proveer al sector público y privado de profesionistas con las habilidades necesarias para desempeñarse como docentes y líderes en centros de investigación y/o en la industria.
+Perfil de egreso
+Una vez que el estudiante de doctorado haya obtenido su grado, estará capacitado para desenvolverse como investigador, preparando y dirigiendo grupos de investigación, además de desarrollar y aplicar estudios en alimentos, de acuerdo a las necesidades de México y otros países. Por lo cual, nuestros(as) egresados(as) tendrán las siguientes competencias, conocimientos, habilidades, actitudes, aptitudes y valores:
+
+Colaborar en la planeación, implementación y desarrollo de agroindustrias, tanto a nivel regional como nacional.
+Desarrollar, implementar y participar en proyectos de investigación científica y/o tecnológica en el área de alimentos.
+Sintetizar conocimientos encaminados a la producción de artículos científicos en revistas indizadas, y con el fin de comunicar los resultados de investigación en congresos científicos.
+Diseñar e implementar metodologías analíticas o instrumentales no referenciadas aplicadas a alimentos.
+Participar activamente en una comunidad profesional.
+Realizar Docencia en el área de Alimentos.
+Los egresados del programa de DCA podrán incorporarse a dependencias gubernamentales, empresas públicas o privadas relacionadas con el área de Alimentos, Instituciones de Educación Superior y Centros de Investigación a nivel Nacional e Internacional.
+
+Plan de estudios
+ 	Nombre	Créditos	Archivo
+Seminario de Investigación	16	169.9 KB
+Seminario Predoctoral	8	170.7 KB
+Proyecto de Tesis I	16	170.2 KB
+Proyecto de Tesis II	16	170.1 KB
+Proyecto de Tesis III	16	170.3 KB
+Proyecto de Tesis IV	16	170.6 KB
+Proyecto de Tesis V	16	170.8 KB
+Examen Predoctoral	8	170.5 KB
+Tesis de grado	52	 
+Total:	164	 
+Planta académica
+ 	Puesto	Nombre
+ 	Docente	BLANCAS BENITEZ FRANCISCO JAVIER
+ 	Docente	CALDERON SANTOYO MONTSERRAT
+ 	Docente	CHACON LOPEZ MARTINA ALEJANDRA
+ 	Docente	GARCIA MAGAÑA MARIA DE LOURDES
+ 	Docente	GUTIERREZ MARTINEZ PORFIRIO
+ 	Docente	LOPEZ GARCIA ULISES MIGUEL
+ 	Docente	LOPEZ GARCIA ULISES MIGUEL
+ 	Docente	MONTALVO GONZALEZ EFIGENIA
+ 	Docente	ORTIZ BASURTO ROSA ISELA
+ 	Docente	RAGAZZO SANCHEZ JUAN ARTURO
+ 	Docente	SANCHEZ BURGOS JORGE ALBERTO
+ 	Docente	SAYAGO AYERDI SONIA GUADALUPE
+ 	Docente	VELAZQUEZ ESTRADA RITA MARIA
+ 	Docente	ZAMORA GASGA VICTOR MANUEL
