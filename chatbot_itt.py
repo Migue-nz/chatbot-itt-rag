@@ -128,7 +128,7 @@ chain_simple = ({"question": RunnablePassthrough()}
 
 #region Prompt CON RAG (nuestro system prompt v1)
 # Leemos el system prompt desde el archivo; duplicamos las llaves para que LangChain no las confunda con variables.
-SYSTEM_PROMPT = Path("prompts/system_prompt_v1.md").read_text(encoding="utf-8").replace("{", "{{").replace("}", "}}")
+SYSTEM_PROMPT = Path("prompts/system_prompt_v3.md").read_text(encoding="utf-8").replace("{", "{{").replace("}", "}}")
 
 def formatear_contexto(docs):
     # Mejora: cada fragmento lleva el nombre de su documento, para que el bot pueda citar la fuente.
